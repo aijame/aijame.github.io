@@ -7,8 +7,7 @@ DANIEL SAATCHI
 
 # Focus and Scope
 
-AIJAN focuses on AI’s impact on humanity, not just its technical brilliance.
-We particularly welcome reflections, research, and essays on:
+AIJAN studies artificial intelligence’s impact on humanity, not just how many GPUs you can afford to overheat. We welcome submissions that are too weird, too honest, or too forward-thinking for traditional journals — especially if your university told you “this isn’t real science.” Topics of interest include but are not limited to:
 
 > AI Advancements and AI in Computational Science Domains
 
@@ -26,15 +25,19 @@ We particularly welcome reflections, research, and essays on:
 
 # Submission Guidelines for Authors
 
-Papers submission should be in ArXive format first, and then for review process by AI agents of AIJAN. Then Editor will decide to transfer to human reviewers or reject, or publish on AIJAN.
+All submissions must first be prepared in LaTeX format and uploaded to arXiv in accordance with its regulations. Once available on arXiv, authors may submit the link to AIJAN for review. The first review stage is conducted by AI agent reviewers, followed by an editorial decision determining whether the paper is rejected, transferred to human reviewers, or accepted for publication.
 
-AIJAN only accept latex format for ArXive. 
+AIJAN maintains a selective and intellectually rigorous process. Publication requires exceptional conceptual originality, strong theoretical foundations, advanced AI simulations, or significant experimental results. As such, publishing in AIJAN is more challenging than in Nature or Wiley journals, as every manuscript undergoes a unique five-step process:
 
-AIJAN is a very hard-to-publish journal which means you have to show strong concept, or strong theoretical work, or strong AI simulations or strong experiments. Publishing in AIJAN is more difficult than Nature and Wiley Journals since your manuscript will first be filtered by your request to:
-Editor's response -> Three AI Agent reviewers -> Editor's Opinion (Reject, transfer, human reviewers, acceptance) -> Editor's Opinion -> Final Result
+Author’s request → AI agent review (x3) → Editor’s evaluation → Human reviewer (optional) → Final decision
 
 # Where it will be published
-On ArXive and AIJAN GitHub and LinkedIn Account of AIJAN. 
+If accepted, your work will appear:
 
+> On arXiv (so people can actually read it)
+
+> On AIJAN GitHub (for transparency and memes)
+
+> On AIJAN’s LinkedIn Channel (because that’s where the real academic wars happen)
 
 
