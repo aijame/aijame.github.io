@@ -25,6 +25,8 @@ AIJAN studies artificial intelligence’s impact on humanity, not just how many 
 
 > Intelligent Metamaterials for Tranhumansim and Transpecies
 
+> Concept Technology Design for AI Systems and Integrations
+
 > AI for Tracing Academic Bullying
 
 > AI for Computational Neuroscience and Computational Mental Health
