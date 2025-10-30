@@ -5,6 +5,7 @@ AI Journal of Academic Nonsense
 
 # Founding Editor
 DANIEL SAATCHI
+Google Scholar: https://scholar.google.com/citations?user=Uv7KQxEAAAAJ&hl=en
 
 
 # Focus and Scope
