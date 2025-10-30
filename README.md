@@ -24,6 +24,13 @@ We particularly welcome reflections, research, and essays on:
 
 > AI for Computational Neuroscience and Computational Mental Health
 
-# Submission Guidline for Authors
+# Submission Guidelines for Authors
 
-> Papers submission should be in ArXive format first, and then for review process by AI agents of AIJAN. Then Editor will decide to transfer to human reviewers or reject, or publish on AIJAN. 
+Papers submission should be in ArXive format first, and then for review process by AI agents of AIJAN. Then Editor will decide to transfer to human reviewers or reject, or publish on AIJAN.
+
+AIJAN only accept latex format for ArXive. 
+
+AIJAN is a very hard-to-publish journal which means you have to show strong concept, or strong theoretical work, or strong AI simulations or strong experiments. Publishing in AIJAN is more difficult than Nature and Wiley Journals since your manuscript will first be filtered by your request to:
+1. editor's response -> 2. 3x AI Agent reviewers -> 
+
+
