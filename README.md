@@ -8,7 +8,8 @@ DANIEL SAATCHI
 
 [<img width="28" height="28" alt="image" src="https://github.com/user-attachments/assets/8b57496f-0b94-4e6a-9283-0bd2ed09f94f" />](https://scholar.google.com/citations?user=Uv7KQxEAAAAJ&hl=en) 
    [<img width="28" height="28" alt="image" src="https://github.com/user-attachments/assets/86aa6640-2071-44c3-a4bd-80d0283a0e69" /> ](https://about.me/danielsaatchi) 
-      [<img width="28" height="28" alt="image" src="https://github.com/user-attachments/assets/5d88d77b-460d-4d33-87ca-53ead43fda34" />](https://github.com/danielsaatchi/)
+      <img width="28" height="28" alt="image" src="https://github.com/user-attachments/assets/a9fc79d6-8c19-44e9-b9d4-1367d8324caa" />
+
 
 
 # Focus and Scope
