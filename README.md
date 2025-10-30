@@ -8,9 +8,7 @@ DANIEL SAATCHI
 
 [Google Scholar](https://scholar.google.com/citations?user=Uv7KQxEAAAAJ&hl=en) 
 
-<img width="28" height="28" alt="image" src="https://github.com/user-attachments/assets/86aa6640-2071-44c3-a4bd-80d0283a0e69" />
-[About Me
-](https://about.me/danielsaatchi)
+[<img width="28" height="28" alt="image" src="https://github.com/user-attachments/assets/86aa6640-2071-44c3-a4bd-80d0283a0e69" /> ](https://about.me/danielsaatchi)
 
 # Focus and Scope
 
