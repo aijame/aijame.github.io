@@ -18,7 +18,7 @@ We particularly welcome reflections, research, and essays on:
 
 > Mechanical Computers, Transponder AI systems, AI-Chips, AI systems, Interface Intelligences
 
-> Intelligent Metamaterials
+> Intelligent Metamaterials for Tranhumansim and Transpecies
 
 > AI for Tracing Academic Bullying
 
