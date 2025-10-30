@@ -44,7 +44,7 @@ All submissions must first be prepared in LaTeX format (we recommend using TexLi
 
 AIJAN maintains a selective and intellectually rigorous process. Publication requires exceptional conceptual originality, strong theoretical foundations, advanced AI simulations, or significant experimental results. As such, publishing in AIJAN is more challenging than in Nature or Wiley journals, as every manuscript undergoes a unique five-step process:
 
-Author’s request → AI agent reviewers (x3🤖🤖🤖) based on AIIA framekwork developed by ONSOFA.ai and AIJAN → Editor’s evaluation → Human reviewer (optional) → Final decision
+Author’s request → 3x AI agent reviewers (🤖🤖🤖) based on AIIA framekwork developed by ONSOFA.ai and AIJAN → Editor’s evaluation → Human reviewer (optional) → Final decision
 
 # Where it will be published
 If accepted, your work will appear:
