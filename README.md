@@ -1,4 +1,4 @@
-<img width="1027" height="182" alt="image" src="https://github.com/user-attachments/assets/520ef112-3a26-4928-9aef-1cd477697a3c" />
+![Uploading image.png…]()
 
 # AIJAN
 AI Journal of Academic Nonsense
