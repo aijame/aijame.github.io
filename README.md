@@ -1,3 +1,5 @@
+<img width="1027" height="182" alt="image" src="https://github.com/user-attachments/assets/520ef112-3a26-4928-9aef-1cd477697a3c" />
+
 # AIJAN
 AI Journal of Academic Nonsense
 
@@ -29,7 +31,7 @@ All submissions must first be prepared in LaTeX format and uploaded to arXiv in 
 
 AIJAN maintains a selective and intellectually rigorous process. Publication requires exceptional conceptual originality, strong theoretical foundations, advanced AI simulations, or significant experimental results. As such, publishing in AIJAN is more challenging than in Nature or Wiley journals, as every manuscript undergoes a unique five-step process:
 
-Author’s request → AI agent review (x3) → Editor’s evaluation → Human reviewer (optional) → Final decision
+Author’s request → AI agent review (x3) based on AIIA framekwork developed by AIJAN → Editor’s evaluation → Human reviewer (optional) → Final decision
 
 # Where it will be published
 If accepted, your work will appear:
