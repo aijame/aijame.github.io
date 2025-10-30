@@ -31,6 +31,10 @@ Papers submission should be in ArXive format first, and then for review process 
 AIJAN only accept latex format for ArXive. 
 
 AIJAN is a very hard-to-publish journal which means you have to show strong concept, or strong theoretical work, or strong AI simulations or strong experiments. Publishing in AIJAN is more difficult than Nature and Wiley Journals since your manuscript will first be filtered by your request to:
-1. editor's response -> 2. 3x AI Agent reviewers -> 
+Editor's response -> Three AI Agent reviewers -> Editor's Opinion (Reject, transfer, human reviewers, acceptance) -> Editor's Opinion -> Final Result
+
+# Where it will be published
+On ArXive and AIJAN GitHub and LinkedIn Account of AIJAN. 
+
 
 
