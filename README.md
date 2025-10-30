@@ -18,7 +18,7 @@ DANIEL SAATCHI
 
 # Focus and Scope
 
-AIJAN studies artificial intelligence’s impact on humanity, not just how many GPUs you can afford to overheat. We welcome submissions that are too weird, too honest, or too forward-thinking for traditional journals — especially if your university told you “this isn’t real science.” Topics of interest include but are not limited to:
+AIJAN studies artificial intelligence’s impact on humanity, not just how many GPUs you can afford to overheat. We welcome submissions that are too weird, too honest, or too forward-thinking for traditional journals — especially if your university told you “this isn’t real science.” or you are independendet researcher. Topics of interest include but are not limited to:
 
 > Applied Mathematics Related to following topics
 
