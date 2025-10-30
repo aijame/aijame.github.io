@@ -6,7 +6,7 @@ AI Journal of Academic Nonsense
 # Founding Editor
 DANIEL SAATCHI
 
-[<img width="840" height="880" alt="image" src="https://github.com/user-attachments/assets/7da7a60c-2288-4c81-966e-22400afbb936" />](https://scholar.google.com/citations?hl=en&user=Uv7KQxEAAAAJ&view_op=list_works&sortby=pubdate)
+[<img width="1125" height="1125" alt="image" src="https://github.com/user-attachments/assets/8b57496f-0b94-4e6a-9283-0bd2ed09f94f" />](https://scholar.google.com/citations?user=Uv7KQxEAAAAJ&hl=en)
 
 [<img width="28" height="28" alt="image" src="https://github.com/user-attachments/assets/86aa6640-2071-44c3-a4bd-80d0283a0e69" /> ](https://about.me/danielsaatchi)
 
