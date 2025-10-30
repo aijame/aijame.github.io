@@ -23,3 +23,7 @@ We particularly welcome reflections, research, and essays on:
 > AI for Tracing Academic Bullying
 
 > AI for Computational Neuroscience and Computational Mental Health
+
+# Submission Guidline for Authors
+
+> Papers submission should be in ArXive format first, and then for review process by AI agents of AIJAN. Then Editor will decide to transfer to human reviewers or reject, or publish on AIJAN. 
