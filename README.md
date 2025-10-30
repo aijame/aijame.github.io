@@ -18,6 +18,8 @@ We particularly welcome reflections, research, and essays on:
 
 > Mechanical Computers, Transponder AI systems, AI-Chips, AI systems, Interface Intelligences
 
+> Intelligent Metamaterials
+
 > AI for Tracing Academic Bullying
 
 > AI for Computational Neuroscience and Computational Mental Health
