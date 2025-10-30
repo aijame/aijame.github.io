@@ -1,6 +1,10 @@
 # AIJAN
 AI Journal of Academic Nonsense
 
+# Founding Editor
+DANIEL SAATCHI
+
+
 # Focus and Scope
 
 AIJAN focuses on AI’s impact on humanity, not just its technical brilliance.
