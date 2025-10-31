@@ -48,6 +48,27 @@ AIJAN maintains a selective and intellectually rigorous process. Publication req
 
 Author’s request → 3x AI agent reviewers (🤖🤖🤖) based on AIIA framekwork developed by ONSOFA.ai and AIJAN → Editor’s evaluation → Human reviewer (optional) → Final decision
 
+## 🧩 Review Process Timeline
+
+AIJAN’s review process combines automation, trust, and a healthy dose of academic nonsense.  
+We don’t rush, and we don’t worship deadlines — but here’s how the journey usually unfolds:
+
+| Stage | Description | Estimated Duration |
+|--------|--------------|--------------------|
+| **1️⃣ Submission (ArXiv Format)** | Author submits paper in LaTeX format (ArXiv-ready). | Instant |
+| **2️⃣ AI Screening (Automated Review)** | Three AI reviewer agents read, analyze, and score the manuscript. They flag brilliance, bias, or boredom. | 1–7 days |
+| **3️⃣ Editor Evaluation** | The Editor (Daniel Saatchi) personally reviews AI feedback and decides whether to: <br> - Reject <br> - Transfer to human peer-review <br> - Accept for AIJAN publication | 7–14 days |
+| **4️⃣ Optional Human Peer-Review** | For papers needing additional scrutiny or humor correction, human reviewers may be invited. | 14–30 days |
+| **5️⃣ Final Editorial Decision** | The Editor delivers a final decision. Some papers are published instantly, others might wait until 2040. | Flexible |
+| **6️⃣ Publication & Archiving** | Accepted works appear on **ArXiv**, **AIJAN GitHub**, and **AIJAN LinkedIn Channel**. | Within 7 days of acceptance |
+
+---
+
+### 🕐 Average Total Review Time:
+**~3–6 weeks** (or 15 years, depending on philosophical depth)
+
+> “AIJAN doesn’t chase deadlines — it chases meaning.”
+
 # Where it will be published
 If accepted, your work will appear:
 
