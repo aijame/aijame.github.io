@@ -53,6 +53,32 @@ If accepted, your work will appear:
 
 > On AIJAN GitHub (for transparency and memes)
 
-> On AIJAN’s LinkedIn Channel (because that’s where the real academic wars happen)
+> On AIJAN’s LinkedIn Channel (because that’s where the real industrial-academic wars happen)
+
+
+## 💸 Publication Fee Policy (USDT – TRON Network)
+
+**AIJAN (AI Journal of Academic Nonsense)** is not a commercial journal.  
+We believe knowledge, creativity, and rebellion in science should remain open and unpaywalled.  
+However, maintaining AI reviewers, digital archiving, and platform sustainability requires minimal operational support.
+
+AIJAN follows a **transparent and fair tiered model**, with payments accepted only in **Tether (USDT)** via the **TRON (TRC20)** network:
+
+| Category | Description | Fee |
+|-----------|--------------|------|
+| 🧠 Independent / Unfunded Researchers | Open to creative, unaffiliated, or self-funded scientists who publish out of passion, not institutional pressure. | **Free** |
+| 🔬 Funded Small Research (with Grant) | Applies to projects acknowledging a small academic or private grant in their funding section. | **250 USDT (TRC20)** |
+| 🏢 Corporate / Institutional Big Funded Projects | Applies to large-scale, well-funded, or institutional research benefiting from organizational or governmental support. The symbolic amount reflects AIJAN’s philosophy — the next paper might appear in 2040, or never. | **2040 USDT (TRC20)** |
+
+AIJAN may waive or adjust fees in exceptional cases, especially for work promoting **academic reform, open science, and AI ethics**.
+
+> *“Free for rebels, fair for thinkers, and 2040 USDT (on TRON) for institutions that can afford nonsense.”*
+
+---
+
+**Payment Method:**  
+💰 Tether (USDT) on **TRON Network (TRC20)**  
+📬 *Wallet address will be provided after acceptance.*
+
 
 
