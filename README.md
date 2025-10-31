@@ -80,7 +80,7 @@ If accepted, your work will appear:
 
 - **🧾 On [arXiv]** — so people can actually *read it*.
 - **💾 On the AIJAN GitHub** — for *transparency, version control, and occasional memes*.
-- **[💼](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/500px-LinkedIn_logo_initials.png) On AIJAN’s LinkedIn Channel** — because that’s where the *real industrial-academic wars* happen.
+- **<img width="28" height="28" alt="image" src="https://github.com/user-attachments/assets/f4547e85-7975-43bc-a766-5c4bba28e3d3" />On AIJAN’s LinkedIn Channel** — because that’s where the *real industrial-academic wars* happen.
 
 
 ## 💸 Publication Fee Policy (USDT – TRON Network)
