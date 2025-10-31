@@ -57,7 +57,7 @@ We don’t rush, and we don’t worship deadlines — but here’s how the journ
 |--------|--------------|--------------------|
 | **1️⃣ Submission (ArXiv Format)** | Author submits paper in LaTeX format (ArXiv-ready). | Instant |
 | **2️⃣ AI Screening (Automated Review)** | Three AI reviewer agents read, analyze, and score the manuscript. They flag brilliance, bias, or boredom. | 1–7 days |
-| **3️⃣ Editor Evaluation** | The Editor (Daniel Saatchi) personally reviews AI feedback and decides whether to: <br> - Reject <br> - Transfer to human peer-review <br> - Accept for AIJAN publication | 7–14 days |
+| **3️⃣ Editor Evaluation** | The Editor personally reviews AI feedback and decides whether to: <br> - Reject <br> - Transfer to human peer-review <br> - Accept for AIJAN publication | 7–14 days |
 | **4️⃣ Optional Human Peer-Review** | For papers needing additional scrutiny or humor correction, human reviewers may be invited. | 14–30 days |
 | **5️⃣ Final Editorial Decision** | The Editor delivers a final decision. Some papers are published instantly, others might wait until 2040. | Flexible |
 | **6️⃣ Publication & Archiving** | Accepted works appear on **ArXiv**, **AIJAN GitHub**, and **AIJAN LinkedIn Channel**. | Within 7 days of acceptance |
