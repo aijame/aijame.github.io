@@ -26,23 +26,23 @@ AIJAN studies artificial intelligence’s impact on humanity, not just how many 
 
 - AI Advancements and AI in Computational Science Domains
 
-> AI adaptation on Culture Technology: Art, Games, Economy, and Social consequences 
+- AI adaptation on Culture Technology: Art, Games, Economy, and Social consequences 
 
-> Technological displacement, digital inequality, and cognitive overload
+- Technological displacement, digital inequality, and cognitive overload
 
-> Mechanical Computers, Transponder AI systems, AI-Chips, AI systems, Interface Intelligences
+- Mechanical Computers, Transponder AI systems, AI-Chips, AI systems, Interface Intelligences
 
-> Intelligent Metamaterials for Tranhumansim and Transpecies
+- Intelligent Metamaterials for Tranhumansim and Transpecies
 
-> Concept Technology Design for AI Systems and Integrations
+- Concept Technology Design for AI Systems and Integrations
 
-> AI for Tracing Academic Bullying
+- AI for Tracing Academic Bullying
 
-> AI for Computational Neuroscience and Computational Mental Health
+- AI for Computational Neuroscience and Computational Mental Health
 
-> Academic Mental Health and New-Neuroscience Research: Academic Bullying Nonsense, Polyvagal Theory, Nervous Systems
+- Academic Mental Health and New-Neuroscience Research: Academic Bullying Nonsense, Polyvagal Theory, Nervous Systems
 
-> AI and Finance: Quantitative Behavioral Finance, Financial Engineering, Researcher's Salary Discussions
+- AI and Finance: Quantitative Behavioral Finance, Financial Engineering, Researcher's Salary Discussions
 
 # Submission Guidelines for Authors
 
