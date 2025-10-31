@@ -40,7 +40,7 @@ AIJAN studies artificial intelligence’s impact on humanity, not just how many 
 
 > AI for Computational Neuroscience and Computational Mental Health
 
->  AI in Mental Health, Academic Mental Health and New-Neuroscience Research: Academic Bullying Topics, Polyvogal, Neverous System, Vagus Nerve
+> Academic Mental Health and New-Neuroscience Research: Academic Bullying Topics, Polyvagal Theory, Nervous Systems
 
 # Submission Guidelines for Authors
 
