@@ -79,8 +79,8 @@ We don’t rush, and we don’t worship deadlines — but here’s how the journ
 If accepted, your work will appear:
 
 - **🧾 On [arXiv]** — so people can actually *read it*.
-- **💾 On the AIJAN GitHub** — for *transparency, version control, and occasional memes*.
-- **💼 On AIJAN’s LinkedIn Channel** — because that’s where the *real industrial-academic wars* happen.
+- **🐈 On the AIJAN GitHub** — for *transparency, version control, and occasional memes*.
+- **🟦 On AIJAN’s LinkedIn Channel** — because that’s where the *real industrial-academic wars* happen.
 
 
 ## 💸 Publication Fee Policy (USDT – TRON Network)
