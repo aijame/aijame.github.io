@@ -68,7 +68,7 @@ AIJAN follows a **transparent and fair tiered model**, with payments accepted on
 |-----------|--------------|------|
 | 🧠 Independent / Unfunded Researchers | Open to creative, unaffiliated, or self-funded scientists who publish out of passion, not institutional pressure. | **Free** |
 | 🔬 Funded Small Research (with Grant) | Applies to projects acknowledging a small academic or private grant in their funding section. | **250 USDT (TRC20)** |
-| 🏢 Corporate / Institutional Big Funded Projects | Applies to large-scale, well-funded, or institutional research benefiting from organizational or governmental support. The symbolic amount reflects AIJAN’s philosophy — the next paper might appear in 2040, or never. | **2040 USDT (TRC20)** |
+| 🏢 Corporate / Institutional Big Funded Projects | Applies to large-scale, well-funded, or institutional research benefiting from organizational or governmental support. | **2040 USDT (TRC20)** |
 
 AIJAN may waive or adjust fees in exceptional cases, especially for work promoting **academic reform, open science, and AI ethics**.
 
