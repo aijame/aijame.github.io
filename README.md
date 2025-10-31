@@ -73,14 +73,15 @@ We don’t rush, and we don’t worship deadlines — but here’s how the journ
 
 > “AIJAN doesn’t chase deadlines — it chases meaning.”
 
-# Where it will be published
+# 📰 Where It Will Be Published
+
 If accepted, your work will appear:
 
-> On arXiv (so people can actually read it)
+On [arXiv] — so people can actually read it.
 
-> On AIJAN GitHub (for transparency and memes)
+On the AIJAN GitHub — for transparency, version control, and occasional memes.
 
-> On AIJAN’s LinkedIn Channel (because that’s where the real industrial-academic wars happen)
+On AIJAN’s LinkedIn Channel — because that’s where the real industrial-academic wars happen.
 
 
 ## 💸 Publication Fee Policy (USDT – TRON Network)
