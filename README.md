@@ -22,9 +22,9 @@ Artist | Computational Scientists | Concept Technology Designer
 
 AIJAN studies artificial intelligence’s impact on humanity, not just how many GPUs you can afford to overheat. We welcome submissions that are too weird, too honest, or too forward-thinking for traditional journals — especially if your university told you “this isn’t real science.” or you are independendet researcher. Topics of interest include but are not limited to:
 
-> Applied Mathematics Related to following topics
+- Applied Mathematics Related to following topics
 
-> AI Advancements and AI in Computational Science Domains
+- AI Advancements and AI in Computational Science Domains
 
 > AI adaptation on Culture Technology: Art, Games, Economy, and Social consequences 
 
