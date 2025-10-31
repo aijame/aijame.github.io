@@ -40,6 +40,8 @@ AIJAN studies artificial intelligence’s impact on humanity, not just how many 
 
 > AI for Computational Neuroscience and Computational Mental Health
 
+>  AI in Mental Health, Academic Mental Health and New-Neuroscience Research: Academic Bullying Topics, Polyvogal, Neverous System, Vagus Nerve
+
 # Submission Guidelines for Authors
 
 All submissions must first be prepared in LaTeX format (we recommend using TexLive) and uploaded to arXiv in accordance with its regulations. Once available on arXiv, authors may submit the link to AIJAN for review. The first review stage is conducted by AI agent reviewers, followed by an editorial decision determining whether the paper is rejected, transferred to human reviewers, or accepted for publication.
