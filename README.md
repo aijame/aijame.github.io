@@ -20,7 +20,6 @@ Artist | Computational Scientist | Concept Technology Designer
     [<img width="28" height="28" alt="image" src="https://github.com/user-attachments/assets/7969dba0-d703-4214-b745-bdaeb86ca7e0" />](https://www.instagram.com/danielsaatchi/?hl=en)
 
 
-
 # Focus and Scope
 
 AIJAN studies artificial intelligence’s impact on humanity, not just how many GPUs you can afford to overheat. We welcome submissions that are too weird (ahead of time), too honest, or too forward-thinking for traditional journals — especially if your university told you “this isn’t real science,” or someone bullied you to publish more results by paying you less, affecting your mental health, or you became an  independent researcher for many possible reasons, and went out of the cage. Topics of interest include, but are not limited to:
@@ -46,6 +45,9 @@ AIJAN studies artificial intelligence’s impact on humanity, not just how many 
 - Academic Mental Health and New-Neuroscience Research: Academic Bullying Nonsense, Polyvagal Theory, Nervous Systems
 
 - AI in Finance: Blockchain, Quantitative Behavioral Finance, Financial Engineering, Researcher's Salary Discussions
+
+# Before You Submit (Do NOT Submit!)
+AIJAN is created to publish founding editor's very few reamined trainlblazing computational science works, advanced concept technologies he is designing or wierd point of view ahead of time he want to archieve before his death. But if you are interested in publishing in AIJAN, the editor highly recommends you in publishing in other reputable venues, confernces, journals or ArXive. And if for God Sakes, you went to the stage or hell where none of them working for you, think of AIJAN and its founding editor as your last possible person and destination to contact. AIJAN is for people who don't want to publish so many papers per year to prove they are high performer researchers. It is very much for researchers enjoy having one paper, but spent a great work and joy on it; AIJAN journal is more a symbolic objection to academic incidents the founding editor realized very nonsense, pointless, and endless to keepp working with professors who are endorsing this broken systme not good for mental health. Those professors migh be brave enoug to adapt and compete, but not genius enough to see the sunken ship and mental health aspects of humans. 
 
 # Submission Guidelines for Authors
 
