@@ -46,7 +46,7 @@ AIJAN studies artificial intelligence’s impact on humanity, not just how many 
 
 - AI in Finance: Blockchain, Quantitative Behavioral Finance, Financial Engineering, Researcher's Salary Discussions
 
-# Before You Submit (Do NOT Submit!)
+## Before You Submit (Do NOT Submit!)
 AIJAN is created to publish founding editor's very few reamined trainlblazing computational science works, advanced concept technologies he is designing or wierd point of view ahead of time he want to archieve before his death. But if you are interested in publishing in AIJAN, the editor highly recommends you in publishing in other reputable venues, confernces, journals or ArXive. And if for God Sakes, you went to the stage or hell where none of them working for you, think of AIJAN and its founding editor as your last possible person and destination to contact. AIJAN is for people who don't want to publish so many papers per year to prove they are high performer researchers. It is very much for researchers enjoy having one paper, but spent a great work and joy on it; AIJAN journal is more a symbolic objection to academic incidents the founding editor realized very nonsense, pointless, and endless to keepp working with professors who are endorsing this broken systme not good for mental health. Those professors migh be brave enoug to adapt and compete, but not genius enough to see the sunken ship and mental health aspects of humans. 
 
 # Submission Guidelines for Authors
