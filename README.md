@@ -122,7 +122,7 @@ If accepted, your work will appear:
 We believe knowledge, creativity, and rebellion in science should remain open. 
 However, maintaining AI reviewers, digital archiving, and platform sustainability requires financial operations and editors' limited time to review.
 
-AIJAN follows a **transparent and fair tiered model**, with payments accepted only in **Tether (USDT)** via the **TRON (TRC20)** network:
+AIJAN follows a **transparent and fair tiered smart-contract model**, with payments accepted only in **Tether (USDT)** via the **TRON (TRC20)** network:
 
 | Category | Description | Fee |
 |-----------|--------------|------|
