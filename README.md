@@ -72,13 +72,13 @@ Author’s request → 3x AI agent reviewers (🤖🤖🤖) based on AIIA framek
 3. Send your submitted PDF in ArXiv and LaTex file (Do NOT send us your mansucripti before ArXive submission; ArXive is protecting you!)
 4. We don't have a specific format for submission. However, for ArXive and GitHub of Liberal AIJAN, you have to write in LaTeX (TextStudio)
 5. For AI papers, we highly recommend using ICML, ILRC, AMC, or AIJAN formats
-6. Your final publications will be in AIJAN format with attached original ArXive format you submitted to us like this example appeared on AIJAN GitHub repo.
+6. Your final publications will be in AIJAN format with #Hash certificate with attached original ArXive format you submitted to us like this example appeared on AIJAN GitHub repo.
  
 ### ✉️ Submission Channel
 
-AIJAN does **not** accept submissions by email.  
+AIJAN does **NOT** accept submissions by email.  
 
-To maintain privacy, transparency, and AI-integrated review, authors should submit their **cover letter** and ArXiv Link or **manuscript (LaTeX / PDF)** through one of the following channels:
+To maintain privacy, transparency, and AI-integrated review, authors should submit their **cover letter** and ArXiv Link or **manuscript (LaTeX / PDF)** with #Hash certificate of payments through one of the following channels:
 
 Contact the Editor on X social media @danielsaatchi
 
