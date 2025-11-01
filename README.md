@@ -3,7 +3,7 @@
 # AIJAN
 The Blockchained and Liberal **AI Journal of Academic Nonsense (AIJAN)**
 
-(openaccess and opensource)
+(Decentralized Patenting, openaccess and opensource)
 
 # Founding Editor
 
