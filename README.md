@@ -64,7 +64,7 @@ All submissions must first be prepared in LaTeX format (we recommend using TexLi
 
 AIJAN maintains a selective and intellectually rigorous process. Publication requires exceptional conceptual originality, strong theoretical foundations, advanced AI simulations, or significant experimental results. As such, publishing in AIJAN is more challenging than in Nature or Wiley journals, as every manuscript undergoes a unique five-step process:
 
-Author’s request with a blockchain operation → 3x AI agent reviewers (🤖🤖🤖) based on AIIA framekwork developed by ONSOFA.ai and AIJAN → Editor’s evaluation → Human reviewer (optional) → Final decision
+Author’s request with a blockchain operation to Editor → 3x AI agent reviewers (🤖🤖🤖) based on AIIA framekwork developed by ONSOFA.ai and AIJAN → Editor’s evaluation → Human reviewer (optional) → Final decision
 
 ### Required Documents to Submit
 1. Receipt of $9 USDT (TRC20 network) payments to the provided cryptocurrency wallet.
