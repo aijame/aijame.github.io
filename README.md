@@ -3,7 +3,7 @@
 # Liberal AIJAN
 The Liberal AI Journal of Academic Nonsense 
 
-(openaccess and opensource)
+(decentralized, openaccess and opensource)
 
 # Founding Editor
 DANIEL SAATCHI
