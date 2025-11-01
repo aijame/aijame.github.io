@@ -6,7 +6,10 @@ The Liberal AI Journal of Academic Nonsense
 (openaccess and opensource)
 
 # Founding Editor
-DANIEL SAATCHI
+
+“If academia can’t evolve with AI, then it deserves to be replaced by journals like this one.”
+
+- DANIEL SAATCHI
 
 Artist | Computational Scientists | Concept Technology Designer 
 
