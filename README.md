@@ -28,7 +28,7 @@ AIJAN studies artificial intelligence’s impact on humanity, not just how many 
 
 - AI Advancements and AI in Computational Science Domains
 
-- AI adaptation on Culture Technology: Art, Games, Economy, and Social Consequences 
+- AI adaptation on Culture Technology: Art, Fashiontech, Games, Economy, and Social Consequences 
 
 - Technological displacement, digital inequality, and cognitive overload
 
