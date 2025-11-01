@@ -127,7 +127,7 @@ AIJAN follows a **transparent and fair tiered model**, with payments accepted on
 | Category | Description | Fee |
 |-----------|--------------|------|
 | 🧑🏻‍🔬 Invited Researchers by Editor | the fee will be waived, paid by Editor for NFT/blockchain purpose of AIJAN | **4 Tron (TRX)** |
-| 🧠 Independent / Unfunded Researchers | Open to creative, unaffiliated, or self-funded scientists who publish out of passion, not institutional pressure. | **$9 USDT (TRC)** |
+| 🧠 Independent / Unfunded Researchers | Open to creative, unaffiliated, or self-funded scientists who publish out of passion, not institutional pressure. | **$9 USDT (TRC20)** |
 | 🔬 Funded Small Research Labs | Applies to projects acknowledging a small academic or private grant in their funding section. | **$250 USDT (TRC20)** |
 | 🏢 Corporate / Institutional Big Funded Projects | Applies to large-scale, well-funded, or institutional research benefiting from organizational or governmental support. | **$2040 USDT (TRC20)** |
 
