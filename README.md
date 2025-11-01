@@ -7,7 +7,7 @@ The Liberal AI Journal of Academic Nonsense (LAJAN)
 
 # Founding Editor
 
-“If academia can’t evolve with AI, then it deserves to be replaced by journals like this one. The LAJAN is for those liberal researchers who were told they didn’t belong in academia or got bullied— because sometimes, exile is where innovation begins.”
+“If academia can’t evolve with AI, then the human reviewers deserve to be replaced by AI journals like this one. The LAJAN is for those caged researchers who were told they didn’t belong in academia, their research papers or proposals were stolen by reviewers or got bullied— because sometimes, exile is where innovation begins.”
 
 > DANIEL SAATCHI
 
@@ -23,13 +23,13 @@ Artist | Computational Scientist | Concept Technology Designer
 
 # Focus and Scope
 
-Liberal AIJAN, aka LAJAN, studies artificial intelligence’s impact on humanity, not just how many GPUs you can afford to overheat. We welcome submissions that are too weird, too honest, or too forward-thinking for traditional journals — especially if your university told you “this isn’t real science,” or someone bullied you to publish more results by paying you less affecting your mental health, or you became an  independendet researcher for many possible reasons, and went out of the cage. Topics of interest include but are not limited to:
+Liberal AIJAN, aka LAJAN, studies artificial intelligence’s impact on humanity, not just how many GPUs you can afford to overheat. We welcome submissions that are too weird, too honest, or too forward-thinking for traditional journals — especially if your university told you “this isn’t real science,” or someone bullied you to publish more results by paying you less, affecting your mental health, or you became an  independent researcher for many possible reasons, and went out of the cage. Topics of interest include, but are not limited to:
 
-- Applied Mathematics Related to following topics
+- Applied Mathematics Related to the following topics
 
 - AI Advancements and AI in Computational Science Domains
 
-- AI adaptation on Culture Technology: Art, Games, Economy, and Social consequences 
+- AI adaptation on Culture Technology: Art, Games, Economy, and Social Consequences 
 
 - Technological displacement, digital inequality, and cognitive overload
 
