@@ -67,11 +67,12 @@ AIJAN maintains a selective and intellectually rigorous process. Publication req
 Author’s request → 3x AI agent reviewers (🤖🤖🤖) based on AIIA framekwork developed by ONSOFA.ai and AIJAN → Editor’s evaluation → Human reviewer (optional) → Final decision
 
 ### Required Documents to Submit
-1. One-page cover letter to the editor  
-2. Send the your submitted PDF in ArXiv and LaTex file (Do NOT send us your mansucripti before ArXive submission; ArXive is protecting you!)
-3. We don't have a specific format for submission. However, for ArXive and GitHub of Liberal AIJAN, you have to write in LaTeX (TextStudio)
+1. Receipt of $9 USDT (Tron) payments to the cryptocurrency wallet.
+2. One-page cover letter to the editor, including #Hash Number  
+3. Send your submitted PDF in ArXiv and LaTex file (Do NOT send us your mansucripti before ArXive submission; ArXive is protecting you!)
+4. We don't have a specific format for submission. However, for ArXive and GitHub of Liberal AIJAN, you have to write in LaTeX (TextStudio)
 5. For AI papers, we highly recommend using ICML, ILRC, AMC, or AIJAN formats
-6. Your final publications will be in AIJAN format with attached original ArXive format you submitted to us like this example.
+6. Your final publications will be in AIJAN format with attached original ArXive format you submitted to us like this example appeared on AIJAN GitHub repo.
  
 ### ✉️ Submission Channel
 
@@ -125,6 +126,7 @@ AIJAN follows a **transparent and fair tiered model**, with payments accepted on
 
 | Category | Description | Fee |
 |-----------|--------------|------|
+| 🧠 Invited Researchers by Editor | the fee will be waived, paid by Editor for blockchain and NFT purpose of AIJAN | **$2 USDT (TRC)** |
 | 🧠 Independent / Unfunded Researchers | Open to creative, unaffiliated, or self-funded scientists who publish out of passion, not institutional pressure. | **$9 USDT (TRC)** |
 | 🔬 Funded Small Research Labs | Applies to projects acknowledging a small academic or private grant in their funding section. | **$250 USDT (TRC20)** |
 | 🏢 Corporate / Institutional Big Funded Projects | Applies to large-scale, well-funded, or institutional research benefiting from organizational or governmental support. | **$2040 USDT (TRC20)** |
