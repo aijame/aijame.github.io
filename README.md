@@ -118,9 +118,9 @@ If accepted, your work will appear:
 
 ## 💵 Publication Fee Policy (USDT – TRON Network)
 
-**AIJAN (AI Journal of Academic Nonsense)** is not a commercial journal.  
-We believe knowledge, creativity, and rebellion in science should remain open and unpaywalled.  
-However, maintaining AI reviewers, digital archiving, and platform sustainability requires minimal operational support.
+**AIJAN (AI Journal of Academic Nonsense)** is not a non-predatory journal (we highly suggest you submit to other journals or ArXiv).  
+We believe knowledge, creativity, and rebellion in science should remain open. 
+However, maintaining AI reviewers, digital archiving, and platform sustainability requires financial operations and editors' limited time to review.
 
 AIJAN follows a **transparent and fair tiered model**, with payments accepted only in **Tether (USDT)** via the **TRON (TRC20)** network:
 
