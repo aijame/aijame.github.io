@@ -126,14 +126,14 @@ AIJAN follows a **transparent and fair tiered model**, with payments accepted on
 
 | Category | Description | Fee |
 |-----------|--------------|------|
-| 🧑🏻‍🔬 Invited Researchers by Editor | the fee will be waived, paid by Editor for NFT/blockchain purpose of AIJAN | **4 Tron (TRX)** |
+| 🧑🏻‍🔬 Invited Researchers by Editor | the fee will be waived, paid by Editor for NFT/blockchain purpose of AIJAN | **6 Tron (TRX)** |
 | 🧠 Independent / Unfunded Researchers | Open to creative, unaffiliated, or self-funded scientists who publish out of passion, not institutional pressure. | **$9 USDT (TRC20)** |
 | 🔬 Funded Small Research Labs | Applies to projects acknowledging a small academic or private grant in their funding section. | **$250 USDT (TRC20)** |
-| 🏢 Corporate / Institutional Big Funded Projects | Applies to large-scale, well-funded, or institutional research benefiting from organizational or governmental support. | **$2040 USDT (TRC20)** |
+| 🏢 Corporate / Institutional Big Funded Projects | Applies to large-scale, well-funded, or institutional research benefiting from organizational or governmental support. | **$2041 USDT (TRC20)** |
 
-The AIJAN editor's review on cover letter cost $9 USDT because he is busy with industrial projects and have limited time; that's why he believes ArXiv is the best for your and other journals or conferences. AIJAN may waive or adjust fees in exceptional cases and editor will pay 4 trons on TRX network for them to continue the blockchain and NFT validations in AIJAN, especially for work promoting **academic reform, open science, and AI ethics**.
+The AIJAN editor's review on cover letter cost $9 USDT because he is busy with industrial projects and have limited time; that's why he believes ArXiv is the best for your and other journals or conferences. AIJAN may waive or adjust fees in exceptional cases and editor will pay 6 TRX on Tron network for them to continue the blockchain and NFT validations in AIJAN, especially for work promoting **academic reform, open science, and AI ethics**.
 
-> *“Free for rebels, fair for thinkers, and 2040 USDT (on TRON) for institutions that can afford nonsense.”*
+> *“Free for rebels, fair for thinkers, and 2041 USDT (on TRON) for institutions that can afford nonsense.”*
 
 ---
 
