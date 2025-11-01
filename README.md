@@ -64,7 +64,7 @@ Author’s request → 3x AI agent reviewers (🤖🤖🤖) based on AIIA framek
  
 ### ✉️ Submission Channel
 
-LAJAN does **not** accept submissions by email.  
+AIJAN does **not** accept submissions by email.  
 
 To maintain privacy, transparency, and AI-integrated review, authors should submit their **cover letter** and ArXiv Link or **manuscript (LaTeX / PDF)** through one of the following channels:
 
