@@ -46,7 +46,7 @@ AIJAN studies artificial intelligence’s impact on humanity, not just how many 
 
 - AI in Finance: Blockchain, Quantitative Behavioral Finance, Financial Engineering, Researcher's Salary Discussions
 
-## Before You Submit (Do NOT Submit!)
+## Before You Submit = Do Not Submit!
 ### 🧬 Why AIJAN Exists
 
 AIJAN was created to publish the founding editor’s few remaining trailblazing works in computational science — the advanced concepts, concept technologies, and weird point of view ahead of time ideas he wants to share before his death.  
