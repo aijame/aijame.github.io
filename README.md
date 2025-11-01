@@ -7,7 +7,7 @@ The Liberal AI Journal of Academic Nonsense
 
 # Founding Editor
 
-“If academia can’t evolve with AI, then it deserves to be replaced by journals like this one.”
+“If academia can’t evolve with AI, then it deserves to be replaced by journals like this one. The LAJAN is for those liberal scientists who were told they didn’t belong in academia by bullying— because sometimes, exile is where innovation begins.”
 
 > DANIEL SAATCHI
 
