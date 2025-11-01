@@ -67,7 +67,7 @@ AIJAN maintains a selective and intellectually rigorous process. Publication req
 Author’s request → 3x AI agent reviewers (🤖🤖🤖) based on AIIA framekwork developed by ONSOFA.ai and AIJAN → Editor’s evaluation → Human reviewer (optional) → Final decision
 
 ### Required Documents to Submit
-1. Receipt of $9 USDT (Tron) payments to the cryptocurrency wallet.
+1. Receipt of $9 USDT (TRC20 network) payments to the provided cryptocurrency wallet.
 2. One-page cover letter to the editor, including #Hash Number  
 3. Send your submitted PDF in ArXiv and LaTex file (Do NOT send us your mansucripti before ArXive submission; ArXive is protecting you!)
 4. We don't have a specific format for submission. However, for ArXive and GitHub of Liberal AIJAN, you have to write in LaTeX (TextStudio)
