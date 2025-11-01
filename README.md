@@ -83,7 +83,7 @@ If accepted, your work will appear:
 - **🟦 On AIJAN’s LinkedIn Channel** — because that’s where the *real industrial-academic wars* happen.
 
 
-## 💸 Publication Fee Policy (USDT – TRON Network)
+## 💵 Publication Fee Policy (USDT – TRON Network)
 
 **AIJAN (AI Journal of Academic Nonsense)** is not a commercial journal.  
 We believe knowledge, creativity, and rebellion in science should remain open and unpaywalled.  
