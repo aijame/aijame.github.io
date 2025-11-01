@@ -49,13 +49,13 @@ AIJAN studies artificial intelligence’s impact on humanity, not just how many 
 ## Before You Submit 
 ### 🧬 Why Shouldn't You Submit to AIJAN?
 
-AIJAN was created to publish the founding editor’s few remaining trailblazing works in computational science, unconventional experiments, the advanced concepts technologies he designs, and the weird point of view ahead of time ideas he might share before his death.  
+AIJAN was created to publish the founding editor’s few remaining trailblazing works in computational science, unconventional experiments, the advanced concepts technologies he designs, and the weird point of view ahead of time ideas he might share on ArXiv and AIJAN repo.  
 
 If you are interested in publishing in AIJAN, the editor highly recommends first submitting your work to other reputable venues, conferences, journals, or arXiv. And if, by some miracle or misfortune, none of those paths work for you — then think of AIJAN and its founding editor as your unfortunate final destination to contact.  
 
 AIJAN is for researchers who don’t need to publish dozens of papers a year to prove their worth. It’s for those who cherish creating one meaningful, beautifully crafted piece of work.  
 
-This journal stands as a symbolic objection to the academic absurdities the founding editor has witnessed — a system where endless publishing metrics overshadow creativity, honesty, and mental health. Many professors may be brave enough to compete within that broken system, but few are wise enough to recognize the sinking ship — or the human cost beneath it.
+This journal stands as a symbolic objection to the academic absurdities the founding editor has witnessed — a system where endless publishing metrics such as high citations or journal impact factors overshadow creativity, honesty, and mental health. Many professors may be brave enough to compete within that broken system, but few are wise enough to recognize the sinking ship — or the human cost beneath it. 
 
 
 # Submission Guidelines for Authors
@@ -125,7 +125,7 @@ AIJAN follows a **transparent and fair tiered model**, with payments accepted on
 
 | Category | Description | Fee |
 |-----------|--------------|------|
-| 🧠 Independent / Unfunded Researchers | Open to creative, unaffiliated, or self-funded scientists who publish out of passion, not institutional pressure. | **Free** |
+| 🧠 Independent / Unfunded Researchers | Open to creative, unaffiliated, or self-funded scientists who publish out of passion, not institutional pressure. | **8.5 USDT (TRC)** |
 | 🔬 Funded Small Research Labs | Applies to projects acknowledging a small academic or private grant in their funding section. | **250 USDT (TRC20)** |
 | 🏢 Corporate / Institutional Big Funded Projects | Applies to large-scale, well-funded, or institutional research benefiting from organizational or governmental support. | **2040 USDT (TRC20)** |
 
