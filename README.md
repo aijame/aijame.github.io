@@ -142,4 +142,72 @@ The AIJAN editor's review on cover letter cost $9 USDT because he is busy with i
 📬 *Wallet address will be provided after acceptance.*
 
 
+# 🧠 AIJAN — Decentralized Scholarly Publishing & Proof-of-Invention Framework
+
+AIJAN (Artificial Intelligence Journal for Autonomous Networks) integrates **academic validation**, **blockchain certification**, and **open-access publishing** to protect the intellectual property of independent researchers, engineers, and artists — **without the high costs of national or international patent filing.**
+
+> **Purpose:**  
+> To enable *postman-level patenting* — allowing creators to timestamp, verify, and publicly disclose original inventions through open-access and blockchain technologies.
+
+---
+
+## 🚀 AIJAN’s Hybrid Workflow
+
+| Step | Layer | Function |
+|------|--------|-----------|
+| **1️⃣ ArXiv** | Academic timestamp | Establishes early public disclosure and author priority. |
+| **2️⃣ NFT / Blockchain** | Cryptographic proof | Certifies originality and authorship with immutable global record. |
+| **3️⃣ DOI / Zenodo** | Scholarly citation record | Registers final paper for global discoverability and reference. |
+
+---
+
+## 📊 Comparison: arXiv ID vs DOI vs NFT / Blockchain Hash (AIJAN Method)
+
+| Feature | **arXiv ID** | **DOI** | **NFT / Blockchain Hash (AIJAN Method)** |
+|----------|---------------|----------|-------------------------------------------|
+| **Definition** | Scholarly preprint identifier from [arXiv.org](https://arxiv.org) | Persistent scholarly identifier via DataCite/CrossRef | Cryptographic record of authorship stored on a public blockchain |
+| **Issuer / Registrar** | Cornell University Library | Publishers / DataCite / CrossRef | Public blockchain (e.g., TRON, Ethereum, Bitcoin) |
+| **Cost to Obtain** | ✅ Free | ⚠️ Publisher or institutional fee | ✅ Minimal blockchain fee (< $1) |
+| **Recognition in Academia** | ✅ High (trusted globally) | ✅ Very high (formal scholarly standard) | ⚠️ Emerging, not yet standard |
+| **Timestamp Authenticity** | ✅ Server-based verification | ✅ DOI metadata timestamp | ✅ Immutable on-chain timestamp |
+| **Proof of Authorship** | ❌ No | ❌ No | ✅ Yes (linked to author’s crypto wallet) |
+| **Tamper-Proof Record** | ⚠️ Editable (revisions allowed) | ✅ Version-controlled | ✅ Fully immutable cryptographic record |
+| **Verification Platform** | [arXiv.org](https://arxiv.org) | [doi.org](https://doi.org) / DataCite | TronScan / Etherscan / Blockchain explorer |
+| **Global Accessibility** | ✅ Free and open | ✅ Free and open | ✅ Publicly verifiable worldwide |
+| **Citable in Literature** | ✅ Yes | ✅ Yes | ⚠️ With explanatory citation note |
+| **Indexing (Scholar / Scopus)** | ✅ Yes | ✅ Yes | ❌ Not yet indexed |
+| **Storage Permanence** | ✅ High | ✅ High | ✅ Blockchain-permanent |
+| **Funding Requirement** | ✅ None | ⚠️ Institutional or publisher fee | ✅ None beyond minimal gas cost |
+| **Use for Patent Timestamping** | ⚠️ Weak legal standing | ⚠️ Indirect (via DOI record) | ✅ Strong cryptographic timestamp usable as *proof-of-invention* |
+| **Bypassing High Patent Costs** | ❌ No | ❌ No | 🥇 **Yes — provides low-cost digital proof of invention, bypassing national and international patent fees** |
+| **Accessibility to Researchers Without Funds** | ✅ Excellent | ⚠️ Limited if fees apply | ✅ Excellent — accessible with any crypto wallet |
+| **Practical IP Protection for Independent Researchers** | ⚠️ Limited (academic priority only) | ⚠️ Costly or institutional | 🥇 **Excellent — decentralized, timestamped proof of originality without legal filing barriers** |
+| **Best Use Case in AIJAN** | Early preprint timestamp | Formal citation record | Intellectual property preservation via blockchain verification |
+
+---
+
+## 🧩 Summary
+
+AIJAN’s mission is to **democratize invention and authorship protection** through open science and blockchain technology.
+
+### ✳️ Key Benefits
+- 🪙 **Bypass costly patent systems** using blockchain timestamping and authorship verification.  
+- 🧬 **Protect intellectual property cryptographically**, linking a permanent NFT hash to each published work.  
+- 🌍 **Ensure accessibility** to independent researchers, creators, and inventors without funding or affiliation.  
+- 🔗 **Bridge academia and decentralized networks** — combining credibility (arXiv/DOI) with immutability (NFT Hash).  
+
+---
+
+## 🧾 Example Blockchain Certificate
+
+```json
+{
+  "network": "TRON",
+  "to_wallet": "TXXXXXXRECEIVER",
+  "amount_trx": 6,
+  "status": "confirmed",
+  "txid": "a3f1b2c4d5e6f7890a1b2c3d4e5f67890abcdef1234567890abcdef1234567890",
+  "timestamp": "2025-11-01T14:23:45Z"
+}
+
 
