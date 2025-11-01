@@ -55,6 +55,11 @@ AIJAN maintains a selective and intellectually rigorous process. Publication req
 
 Author’s request → 3x AI agent reviewers (🤖🤖🤖) based on AIIA framekwork developed by ONSOFA.ai and AIJAN → Editor’s evaluation → Human reviewer (optional) → Final decision
 
+## Required Documents 
+1. One-page cover letter
+2. Send the submitted PDF in ArXiv (Do Not Send us your paper Before ArXive Submission; ArXive is protecting you)
+3. We don't have a specific format for submission. However, for GitHub of Liberal AIJAN and ArXive you need to write in LaTeX (TextStudio)
+
 ## 🧩 Review Process Timeline
 
 AIJAN’s review process combines automation, trust, and a healthy dose of academic nonsense.  
