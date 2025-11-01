@@ -45,7 +45,7 @@ Liberal AIJAN, aka LAJAN, studies artificial intelligence’s impact on humanity
 
 - Academic Mental Health and New-Neuroscience Research: Academic Bullying Nonsense, Polyvagal Theory, Nervous Systems
 
-- AI and Finance: Quantitative Behavioral Finance, Financial Engineering, Researcher's Salary Discussions
+- AI in Finance: Blockchain, Quantitative Behavioral Finance, Financial Engineering, Researcher's Salary Discussions
 
 # Submission Guidelines for Authors
 
