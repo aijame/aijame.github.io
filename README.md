@@ -44,7 +44,7 @@ AIJAN studies artificial intelligence’s impact on humanity, not just how many 
 
 - Academic Mental Health and New-Neuroscience Research: Academic Bullying Nonsense, Polyvagal Theory, Nervous Systems
 
-- AI in Finance: Blockchain, Quantitative Behavioral Finance, Financial Engineering, Researcher's Salary Discussions
+- AI in Finance: Blockchain, DeFi Patenting, Quantitative Behavioral Finance, Financial Engineering, Researcher's Salary Discussions
 
 ## Before You Submit 
 ### 🧬 Why Shouldn't You Submit to AIJAN?
