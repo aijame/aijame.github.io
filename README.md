@@ -55,10 +55,13 @@ AIJAN maintains a selective and intellectually rigorous process. Publication req
 
 Author’s request → 3x AI agent reviewers (🤖🤖🤖) based on AIIA framekwork developed by ONSOFA.ai and AIJAN → Editor’s evaluation → Human reviewer (optional) → Final decision
 
-## Required Documents 
-1. One-page cover letter
-2. Send the submitted PDF in ArXiv (Do Not Send us your paper Before ArXive Submission; ArXive is protecting you)
-3. We don't have a specific format for submission. However, for GitHub of Liberal AIJAN and ArXive you need to write in LaTeX (TextStudio)
+## Required Documents to Submit
+1. One-page cover letter to editor in editor
+2. Send the your submitted PDF in ArXiv and LaTex file (Do NOT send us your mansucripti before ArXive submission; ArXive is protecting you!)
+3. We don't have a specific format for submission. However, for ArXive and GitHub of Liberal AIJAN, you have to write in LaTeX (TextStudio)
+5. For AI papers, we highly recommend using ICML, ILRC, AMC, or AIJAN formats
+6. Your final publications will be in AIJAN format with attached original ArXive format you submitted to us like this example.
+
 
 ## 🧩 Review Process Timeline
 
