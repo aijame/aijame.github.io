@@ -30,7 +30,7 @@ AIJAN studies artificial intelligence’s impact on humanity, not just how many 
 
 - Technological displacement, digital inequality, and cognitive overload
 
-- Mechanical Computers, Transponder AI systems, AI-Chips, AI systems, Interface Intelligences
+- Mechanical Intelligence, Mechanical Computers, Transponder AI systems, AI-Chips, AI systems, Interface Intelligences
 
 - Intelligent Metamaterials for Tranhumansim and Transpecies
 
