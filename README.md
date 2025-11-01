@@ -9,7 +9,7 @@ The Liberal AI Journal of Academic Nonsense
 
 “If academia can’t evolve with AI, then it deserves to be replaced by journals like this one.”
 
-- DANIEL SAATCHI
+> DANIEL SAATCHI
 
 Artist | Computational Scientists | Concept Technology Designer 
 
