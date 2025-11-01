@@ -142,7 +142,7 @@ The AIJAN editor's review on cover letter cost $9 USDT because he is busy with i
 📬 *Wallet address will be provided after acceptance.*
 
 
-# 🧠 AIJAN — Decentralized Scholarly Publishing & Proof-of-Invention Framework
+### 🧠 AIJAN — Decentralized Scholarly Publishing & Proof-of-Invention Framework
 
 AIJAN (Artificial Intelligence Journal for Autonomous Networks) integrates **academic validation**, **blockchain certification**, and **open-access publishing** to protect the intellectual property of independent researchers, engineers, and artists — **without the high costs of national or international patent filing.**
 
@@ -151,7 +151,7 @@ AIJAN (Artificial Intelligence Journal for Autonomous Networks) integrates **aca
 
 ---
 
-## 🚀 AIJAN’s Hybrid Workflow
+### 🚀 AIJAN’s Hybrid Workflow
 
 | Step | Layer | Function |
 |------|--------|-----------|
@@ -161,7 +161,7 @@ AIJAN (Artificial Intelligence Journal for Autonomous Networks) integrates **aca
 
 ---
 
-## 📊 Comparison: arXiv ID vs DOI vs NFT / Blockchain Hash (AIJAN Method)
+### 📊 Comparison: arXiv ID vs DOI vs NFT / Blockchain Hash (AIJAN Method)
 
 | Feature | **arXiv ID** | **DOI** | **NFT / Blockchain Hash (AIJAN Method)** |
 |----------|---------------|----------|-------------------------------------------|
@@ -186,7 +186,7 @@ AIJAN (Artificial Intelligence Journal for Autonomous Networks) integrates **aca
 
 ---
 
-## 🧩 Summary
+### 🧩 Summary
 
 AIJAN’s mission is to **democratize invention and authorship protection** through open science and blockchain technology.
 
@@ -198,7 +198,7 @@ AIJAN’s mission is to **democratize invention and authorship protection** thro
 
 ---
 
-## 🧾 Example Blockchain Certificate
+### 🧾 Example Blockchain Certificate
 
 ```json
 {
