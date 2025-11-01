@@ -23,7 +23,7 @@ Artist | Computational Scientist | Concept Technology Designer
 
 # Focus and Scope
 
-Liberal AIJAN, aka LAJAN, studies artificial intelligence’s impact on humanity, not just how many GPUs you can afford to overheat. We welcome submissions that are too weird, too honest, or too forward-thinking for traditional journals — especially if your university told you “this isn’t real science,” or someone bullied you to publish more results by paying you less, affecting your mental health, or you became an  independent researcher for many possible reasons, and went out of the cage. Topics of interest include, but are not limited to:
+Liberal AIJAN, aka LAJAN, studies artificial intelligence’s impact on humanity, not just how many GPUs you can afford to overheat. We welcome submissions that are too weird (ahead of time), too honest, or too forward-thinking for traditional journals — especially if your university told you “this isn’t real science,” or someone bullied you to publish more results by paying you less, affecting your mental health, or you became an  independent researcher for many possible reasons, and went out of the cage. Topics of interest include, but are not limited to:
 
 - Applied Mathematics Related to the following topics
 
