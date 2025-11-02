@@ -43,7 +43,7 @@ AIJAN studies artificial intelligence’s impact on humanity, not just how many 
 
 - Mechanical Intelligence, Mechanical Computers, Transponder AI systems, AI-Chips, AI systems, Interface Intelligences
 
-- Intelligent Metamaterials for Tranhumansim and Transpecies
+- Metamaterials Informatics, Intelligent Metamaterials for Tranhumansim and Transpecies
 
 - Concept Technology Design for AI Systems and Integrations
 
