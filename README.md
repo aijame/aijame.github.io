@@ -251,7 +251,7 @@ currenlty, AIJAN charges only for open access repo and optional blockchain certi
 AIJAN allows authors to mint their work or IP as NFTs directly into their wallets later. These NFTs can then be sold or licensed to others, providing a direct monetization channel without intermediaries.
 
 ##### 6. How does AIJAN support decentralization?
-By letting authors handle DOI registration themselves, submitting in ArXiv by themselves, and providing direct IP monetization via blockchain certificate and NFT, AIJAN removes unnecessary middlemen and empowers authors to control their research outputs for montetization.
+By letting authors handle DOI registration themselves, submitting in ArXiv by themselves, and providing direct IP monetization via blockchain certificate and NFT, AIJAN removes unnecessary middlemen and empowers authors to control their research outputs for monetization.
 
 ##### 7. Can international authors use AIJAN?
 Yes, but note that AIJAN follows US standards. Authors in Europe or other regions should ensure compliance with local AI and IP regulations in their institutions before submitting. AIJAN does not endorse European academic nonsense and overregulations in AI.  
@@ -264,6 +264,6 @@ Yes, but note that AIJAN follows US standards. Authors in Europe or other region
 - The platform reduces bureaucracy and middlemen.
 
 ##### 9. Who can I contact for support?
-Authors can reach out to AIJAN support through the founding editor's contact on X private messaging form after payments. The editor only responds if the verifiable hash number was mentioned in the cover letter and manuscript for review. If your message is not responded by the founding editor after payment, tweet him with tagging his id @danielsaatchi with #ajianhashdone and your TxID to check his direct messages. Editor hates responding to emails wasting his time, and he prefers a quick communication channel like X social media backchannel messaging. Your accepted work will be promoted by him directly on X later. AIJAN will slowly add more features with a bootstrapping strategy, depending on needs of its supporting system with advanced AI integration. 
+Authors can reach out to AIJAN support through the founding editor's contact on X private messaging form after payments. The editor only responds if the verifiable hash number was mentioned in the cover letter and manuscript for review. If your message is not responded by the founding editor after payment, tweet him with tagging his id @danielsaatchi with #ajianhashdone and your TxID to check his direct messages. The editor hates responding to emails, wasting his time, and he prefers a quick communication channel like X social media backchannel messaging. Your accepted work will be promoted by him directly on X later. AIJAN will slowly add more automation features with a bootstrapping strategy, depending on the needs for its supporting system with advanced AI integration. 
 
 
