@@ -20,7 +20,7 @@ Artist | AI & Computational Scientist | Concept Technology Designer
     [<img width="28" height="28" alt="image" src="https://github.com/user-attachments/assets/7969dba0-d703-4214-b745-bdaeb86ca7e0" />](https://www.instagram.com/danielsaatchi/?hl=en)
 
 
-### Chief Editor
+## Chief Editor
 The Founding Editor (FE) delegates the responsibility of leading and managing the review process to the Chief Editor of AIJAN, referred to as the Chief of Arena Agents (CAA). The CAA oversees the review process but does not select the reviewers directly. Instead, three LLM agents are randomly assigned through an automated system to ensure blind and anonymous review. Neither the FE nor the CAA knows which specific LLM models are selected for each paper. Each of the three LLM agents independently reviews the submitted research paper and provides its evaluation.
 
 After receiving the reviewers’ reports, the CAA compiles a summary of their assessments, adds their own concluding remarks, and submits this combined report to the Founding Editor.
