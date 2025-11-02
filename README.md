@@ -227,7 +227,7 @@ AIJAN’s mission is to remove the human middlemen to **democratize invention an
 
 AIJAN provides decentralized authorship verification that complements, not replaces, IPs, copyrights, or patents.
 No middleman by cryptographically timestamping inventions and research papers on public blockchains, AIJAN gives underfunded researchers the ability to prove originality and authorship globally — bypassing the prohibitive costs of international patent systems while maintaining legal credibility as timestamp evidence.
-
+```
 
 # FAQ
 
