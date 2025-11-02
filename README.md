@@ -1,7 +1,7 @@
 <img width="1015" height="233" alt="image" src="https://github.com/user-attachments/assets/8c170254-5a4d-4df7-86c7-5ace74f7ad43" />
 
 # AIJAN
-The Blockchained and Liberal **AI Journal of Academic Nonsense (AIJAN)** pioneers a new era of proto-science, exploring the frontiers of human and artificial cognition in the emerging AGI epoch. In essence, it stands at the intersection of art, intelligence, and rebellion — a frontier where proto-scientific thought arises from the experimental chaos in the era of artificial general intelligence and superintelligences.
+The Blockchained and Liberal **AI Journal of Academic Nonsense (AIJAN)** pioneers a new era of proto-science, exploring the frontiers of human and artificial cognition in the evolving AGI epoch. In essence, it stands at the intersection of art, intelligence, and rebellion — a frontier where proto-scientific thought arises from the experimental chaos in the era of artificial general intelligence and superintelligences.
 
 (DeFi-IP, openaccess and opensource)
 
