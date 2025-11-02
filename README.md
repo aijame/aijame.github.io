@@ -3,7 +3,7 @@
 # AIJAN
 The Blockchained and Liberal **AI Journal of Academic Nonsense (AIJAN)** pioneers a new era of [protoscience](https://en.wikipedia.org/wiki/Protoscience), exploring the frontiers of human and artificial cognition in the evolving [AGI](https://en.wikipedia.org/wiki/Artificial_general_intelligence) epoch. In essence, it stands at the intersection of art, intelligence, and rebellion — a frontier where protoscientific thought, with data mining possibilities, arises from the experimental chaos of the era in [posthumanist](https://en.wikipedia.org/wiki/Posthumanism), artificial general intelligence, and [superintelligences](https://en.wikipedia.org/wiki/Superintelligence).
 
-(DeFi-IP, openaccess and opensource)
+(AI Process, DeFi-IP, openaccess and opensource)
 
 ## Founding Editor
 
