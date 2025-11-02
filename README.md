@@ -27,7 +27,7 @@ After receiving the reviewers’ reports, the CAA compiles a summary of their as
 
 The Founding Editor then reviews the reports from the CAA and all three LLM reviewers and makes the final decision. The FE holds overruling authority for both acceptance and rejection. This means that even if the CAA and all three reviewers recommend acceptance, the FE may still reject the paper if it is deemed unsuitable for AIJAN. Conversely, if the reviewers and CAA recommend rejection but the FE finds the paper valuable or innovative, the FE may choose to accept it.
 
-In all cases—whether a paper is accepted or rejected—the comments from the CAA, the three reviewers, and the FE will be publicly displayed on the AIJAN repository for transparency.
+In all cases—whether a paper is accepted or rejected—the comments from the CAA, the three reviewers, and the FE will be publicly displayed on the AIJAN repository for transparency. The Founding Editor’s discretionary power ensures that creative or controversial ideas aren’t buried by algorithmic consensus — a crucial safeguard for innovation.
 
 # Focus and Scope
 
