@@ -228,3 +228,42 @@ AIJAN’s mission is to remove the human middlemen to **democratize invention an
 AIJAN provides decentralized authorship verification that complements, not replaces, IPs, copyrights, or patents.
 No middleman by cryptographically timestamping inventions and research papers on public blockchains, AIJAN gives underfunded researchers the ability to prove originality and authorship globally — bypassing the prohibitive costs of international patent systems while maintaining legal credibility as timestamp evidence.
 
+
+# FAQ
+
+AIJAN is a decentralized, author-focused academic platform that allows researchers to publish, manage, and monetize their work directly. It supports open access  and NFT-based intellectual property (IP) minting.
+
+## Frequently Asked Questions (FAQ)
+
+### 1. What is AIJAN?
+AIJAN is a platform designed to give authors control over their publications, combining open access, DOI registration, and NFT-based IP management in a decentralized model.
+
+### 2. How do I submit my work to AIJAN?
+You can submit your work after acceptance by ArXiv or directly through AIJAN. Once accepted, you can obtain your DOI from ZENDO yourself, giving you full control over your publication.
+
+### 3. Do I have to transfer my copyright to AIJAN?
+No. Unlike traditional journals, AIJAN does not require full copyright transfer. You retain ownership of your work and control how it is shared.
+
+### 4. What fees are involved?
+AIJAN charges only for open access publication and optional NFT minting services. There are no hidden fees or mandatory copyright transfers.
+
+### 5. What is NFT minting for authors?
+AIJAN allows authors to mint their work or IP as NFTs directly into their wallets. These NFTs can then be sold or licensed to others, providing a direct monetization channel without intermediaries.
+
+### 6. How does AIJAN support decentralization?
+By letting authors handle DOI registration themselves and providing direct IP monetization via NFTs, AIJAN removes unnecessary middlemen and empowers authors to control their research outputs.
+
+### 7. Can international authors use AIJAN?
+Yes, but note that AIJAN follows US standards. Authors in Europe or other regions should ensure compliance with local AI and IP regulations before submitting.
+
+### 8. How is AIJAN different from traditional journals?
+- You keep full copyright.  
+- Open access is optional and transparent.  
+- Monetization via NFT IP is supported.  
+- DOI submission is author-controlled.  
+- The platform reduces bureaucracy and middlemen.
+
+### 9. Who can I contact for support?
+Authors can reach out to AIJAN support through the platform’s official contact form or support email for any questions regarding submission, NFT minting, or DOI registration.
+
+
