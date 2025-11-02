@@ -1,6 +1,6 @@
 <img width="1015" height="233" alt="image" src="https://github.com/user-attachments/assets/8c170254-5a4d-4df7-86c7-5ace74f7ad43" />
 
-# AIJAN
+# AIJAN 
 The Blockchained and Liberal **AI Journal of Academic Nonsense (AIJAN)** pioneers a new era of [protoscience](https://en.wikipedia.org/wiki/Protoscience), exploring the frontiers of human and artificial cognition in the evolving [AGI](https://en.wikipedia.org/wiki/Artificial_general_intelligence) epoch. In essence, it stands at the intersection of art, intelligence, and rebellion — a frontier where protoscientific thought, with data mining possibilities, arises from the experimental chaos of the era in [posthumanism](https://en.wikipedia.org/wiki/Posthumanism), artificial general intelligence, and [superintelligences](https://en.wikipedia.org/wiki/Superintelligence).
 
 (Anonymous AI process, DeFi-IP, openaccess and opensource)
@@ -229,7 +229,7 @@ AIJAN provides decentralized authorship verification that complements, not repla
 No middleman by cryptographically timestamping inventions and research papers on public blockchains, AIJAN gives underfunded researchers the ability to prove originality and authorship globally — bypassing the prohibitive costs of international patent systems while maintaining legal credibility as timestamp evidence.
 ```
 
-# FAQ
+# Summary
 
 AIJAN is a decentralized, author-focused academic platform that allows researchers to publish, manage, and monetize their work directly. It supports open access  and NFT-based intellectual property (IP) minting.
 
