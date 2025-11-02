@@ -239,22 +239,22 @@ AIJAN is a decentralized, author-focused academic platform that allows researche
 AIJAN is a platform designed to give authors control over their publications, combining open access, DOI registration, and NFT-based IP management in a decentralized model.
 
 ##### 2. How do I submit my work to AIJAN?
-You can submit your work after acceptance by ArXiv or directly through AIJAN. Once accepted, you can obtain your DOI from ZENDO yourself, giving you full control over your publication.
+You can submit your work after blockchain certificate payment, submission in ArXiv, and then directly through AIJAN. Once accepted, you can obtain your DOI from ZENDO yourself, giving you full control over your publication while having ArXiv ID and a blockchain AIJAN hash number.
 
 ##### 3. Do I have to transfer my copyright to AIJAN?
-No. Unlike traditional journals, AIJAN does not require full copyright transfer. You retain ownership of your work and control how it is shared.
+No. Unlike traditional journals, AIJAN does not require full copyright transfer. You retain ownership of your work and control how it is shared, sold as NFT by you mintable to your wallet.
 
 ##### 4. What fees are involved?
-AIJAN charges only for open access publication and optional NFT minting services. There are no hidden fees or mandatory copyright transfers.
+currenlty, AIJAN charges only for open access repo and optional blockchain certification services. There are no hidden fees or mandatory copyright transfers. Please check the table for the author's budget and the institution's budget for options. 
 
 ##### 5. What is NFT minting for authors?
-AIJAN allows authors to mint their work or IP as NFTs directly into their wallets. These NFTs can then be sold or licensed to others, providing a direct monetization channel without intermediaries.
+AIJAN allows authors to mint their work or IP as NFTs directly into their wallets later. These NFTs can then be sold or licensed to others, providing a direct monetization channel without intermediaries.
 
 ##### 6. How does AIJAN support decentralization?
-By letting authors handle DOI registration themselves and providing direct IP monetization via NFTs, AIJAN removes unnecessary middlemen and empowers authors to control their research outputs.
+By letting authors handle DOI registration themselves, submitting in ArXiv by themselves, and providing direct IP monetization via blockchain certificate and NFT, AIJAN removes unnecessary middlemen and empowers authors to control their research outputs for montetization.
 
 ##### 7. Can international authors use AIJAN?
-Yes, but note that AIJAN follows US standards. Authors in Europe or other regions should ensure compliance with local AI and IP regulations before submitting.
+Yes, but note that AIJAN follows US standards. Authors in Europe or other regions should ensure compliance with local AI and IP regulations in their institutions before submitting. AIJAN does not endorse European academic nonsense and overregulations in AI.  
 
 ##### 8. How is AIJAN different from traditional journals?
 - You keep full copyright.  
@@ -264,6 +264,6 @@ Yes, but note that AIJAN follows US standards. Authors in Europe or other region
 - The platform reduces bureaucracy and middlemen.
 
 ##### 9. Who can I contact for support?
-Authors can reach out to AIJAN support through the platform’s official contact form or support email for any questions regarding submission, NFT minting, or DOI registration.
+Authors can reach out to AIJAN support through the founding editor's contact on X private messaging form after payments. The editor only responds if the verifiable hash number was mentioned in the cover letter and manuscript for review. If your message is not responded to by the founding editor after payment, tweet him and tag him @danielsaatchi with #ajianhashdone to check his direct messages. Editors hate responding to emails, and he prefers a quick communication channel like X social media backchannel messaging. Your accepted work will be promoted by him directly on X later. 
 
 
