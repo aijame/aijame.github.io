@@ -167,7 +167,9 @@ AIJAN (Artificial Intelligence Journal for Autonomous Networks) integrates **aca
 |------|--------|-----------|
 | **1️⃣ ArXiv** | Academic timestamp | Establishes early public disclosure and author priority. |
 | **2️⃣ NFT / Blockchain** | Cryptographic proof | Certifies originality and authorship with immutable global record. |
-| **3️⃣ DOI / Zenodo** | Scholarly citation record | Registers final paper for global discoverability and reference. |
+| **3️⃣ DOI / Zenodo Option** | Scholarly citation record | Registers final paper for global discoverability and reference. |
+
+> *“Authors can obtain their DOI submissions from ZENDO themselves after acceptance by ArXiv and AIJAN, supporting a more decentralized AIJAN operation. Unlike traditional journals, AIJAN does not require full copyright transfer from authors and only charges for blockchain operations. Additionally, AIJAN provides NFT minting for authors’ wallets, allowing them to sell their IP NFTs directly to others. In this way, AIJAN acts as a catalyst, eliminating middlemen.”*
 
 ---
 
@@ -176,7 +178,7 @@ AIJAN (Artificial Intelligence Journal for Autonomous Networks) integrates **aca
 | Feature | **arXiv ID** | **DOI** | **NFT / Blockchain Hash (AIJAN Method)** |
 |----------|---------------|----------|-------------------------------------------|
 | **Definition** | Scholarly preprint identifier from [arXiv.org](https://arxiv.org) | Persistent scholarly identifier via DataCite/CrossRef | Cryptographic record of authorship stored on a public blockchain |
-| **Issuer / Registrar** | Cornell University Library | Publishers / DataCite / CrossRef | Public blockchain (e.g., TRON, Ethereum, Bitcoin) |
+| **Issuer / Registrar** | Cornell University Library | Publishers / DataCite / CrossRef | Public blockchain (e.g., TRON, ETH, BTC) |
 | **Cost to Obtain** | ✅ Free | ⚠️ Publisher or institutional fee | ✅ Minimal blockchain fee (< $1) |
 | **Recognition in Academia** | ✅ High (trusted globally) | ✅ Very high (formal scholarly standard) | ⚠️ Emerging, not yet standard |
 | **Timestamp Authenticity** | ✅ Server-based verification | ✅ DOI metadata timestamp | ✅ Immutable on-chain timestamp |
@@ -189,7 +191,7 @@ AIJAN (Artificial Intelligence Journal for Autonomous Networks) integrates **aca
 | **Storage Permanence** | ✅ High | ✅ High | ✅ Blockchain-permanent |
 | **Funding Requirement** | ✅ None | ⚠️ Institutional or publisher fee | ✅ None beyond minimal gas cost |
 | **Use for IP Timestamping** | ⚠️ Weak legal standing | ⚠️ Indirect (via DOI record) | ✅ Strong cryptographic timestamp usable as *proof-of-intellectual-Ownership* |
-| **Bypassing High Patent Costs** | ❌ No | ❌ No | 🥇 **Yes — provides low-cost digital proof of invention, bypassing national and international patent fees** |
+| **Bypassing High Patent Costs** | ❌ No | ❌ No | 🥇 **Yes — provides prior low-cost digital proof of state of art, bypassing national and international patent fees** |
 | **Accessibility to Researchers Without Funds** | ✅ Excellent | ⚠️ Limited if fees apply | ✅ Excellent — accessible with any crypto wallet |
 | **Practical IP Protection for Independent Researchers** | ⚠️ Limited (academic priority only) | ⚠️ Costly or institutional | 🥇 **Excellent — decentralized, timestamped proof of originality without legal filing barriers** |
 | **Best Use Case in AIJAN** | Early preprint timestamp | Formal citation record | Intellectual property preservation via blockchain verification |
@@ -198,10 +200,10 @@ AIJAN (Artificial Intelligence Journal for Autonomous Networks) integrates **aca
 
 ### 🧩 Summary
 
-AIJAN’s mission is to **democratize invention and authorship protection** through open science and blockchain technology.
+AIJAN’s mission is to remove the human middlemen to **democratize invention and authorship protection** through open science and blockchain technology.
 
 ### ✳️ Key Benefits
-- 🪙 **Bypass costly patent systems** using blockchain timestamping and authorship verification.  
+- 🪙 **Bypass costly IPs and patent systems** using blockchain timestamping and authorship verification.  
 - 🧬 **Protect intellectual property cryptographically**, linking a permanent NFT hash to each published work.  
 - 🌍 **Ensure accessibility** to independent researchers, creators, and inventors without funding or affiliation.  
 - 🔗 **Bridge academia and decentralized networks** — combining credibility (arXiv/DOI) with immutability (NFT Hash).  
@@ -213,14 +215,16 @@ AIJAN’s mission is to **democratize invention and authorship protection** thro
 ```json
 {
   "network": "TRON",
+  "from_wallet": "TXXXXXXRECEIVER",
   "to_wallet": "TXXXXXXRECEIVER",
   "amount_trx": 6,
   "status": "confirmed",
   "txid": "a3f1b2c4d5e6f7890a1b2c3d4e5f67890abcdef1234567890abcdef1234567890",
-  "timestamp": "2025-11-01T14:23:45Z"
+  "timestamp": "2025-11-01T14:23:45Z",
+   "block": 782191
 }
 
 
-AIJAN provides decentralized authorship verification that complements, not replaces, patents.
-By cryptographically timestamping inventions and research papers on public blockchains, AIJAN gives underfunded researchers the ability to prove originality and authorship globally — bypassing the prohibitive costs of international patent systems while maintaining legal credibility as timestamp evidence.
+AIJAN provides decentralized authorship verification that complements, not replaces, IPs, copyrights, or patents.
+No middleman by cryptographically timestamping inventions and research papers on public blockchains, AIJAN gives underfunded researchers the ability to prove originality and authorship globally — bypassing the prohibitive costs of international patent systems while maintaining legal credibility as timestamp evidence.
 
