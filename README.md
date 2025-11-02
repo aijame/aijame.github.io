@@ -178,7 +178,7 @@ AIJAN (Artificial Intelligence Journal for Autonomous Networks) integrates **aca
 | **Indexing (Scholar / Scopus)** | ✅ Yes | ✅ Yes | ❌ Not yet indexed |
 | **Storage Permanence** | ✅ High | ✅ High | ✅ Blockchain-permanent |
 | **Funding Requirement** | ✅ None | ⚠️ Institutional or publisher fee | ✅ None beyond minimal gas cost |
-| **Use for Patent Timestamping** | ⚠️ Weak legal standing | ⚠️ Indirect (via DOI record) | ✅ Strong cryptographic timestamp usable as *proof-of-invention* |
+| **Use for IP Timestamping** | ⚠️ Weak legal standing | ⚠️ Indirect (via DOI record) | ✅ Strong cryptographic timestamp usable as *proof-of-intellectual-Ownership* |
 | **Bypassing High Patent Costs** | ❌ No | ❌ No | 🥇 **Yes — provides low-cost digital proof of invention, bypassing national and international patent fees** |
 | **Accessibility to Researchers Without Funds** | ✅ Excellent | ⚠️ Limited if fees apply | ✅ Excellent — accessible with any crypto wallet |
 | **Practical IP Protection for Independent Researchers** | ⚠️ Limited (academic priority only) | ⚠️ Costly or institutional | 🥇 **Excellent — decentralized, timestamped proof of originality without legal filing barriers** |
