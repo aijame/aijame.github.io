@@ -81,7 +81,7 @@ Author’s request with a blockchain operation to Editor → 3x AI agent reviewe
 3. Send your submitted PDF in ArXiv and LaTex file (Do **NOT** send us your manuscript with blockchain certification before ArXiv submission; ArXiv step is protecting you!)
 4. We don't have a specific format for submission. However, for ArXiv and GitHub of the AIJAN format conversion, you have to write in LaTeX (TextStudio). We don't accept MS words.
 5. For AI papers' initial manuscript, we highly recommend using ICML, ILRC, AMC that can be converted to AIJAN format, or use AIJAN format directly.
-6. Your final publications will be in AIJAN format with #Hash certificate with attached original ArXive format you submitted to us like this example appeared on AIJAN GitHub repo.
+6. Your final publications will be in AIJAN format with a blockchain #Hash certificate with attached original ArXive format you submitted to us like the example appeared on AIJAN GitHub repo.
  
 ### ✉️ Submission Channel
 
