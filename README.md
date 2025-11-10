@@ -7,7 +7,7 @@ The Blockchained and Liberal **AI Journal of Academic Nonsense (AIJAN)** pioneer
 
 ## Founding Editor
 
-*“Today's Nonsense might be the beginning of future commonsense. If academia can’t evolve with AI, then the human reviewers deserve to be replaced by AI journals like this one. The Liberal AIJAN is for those caged researchers who were told and bullied they didn’t belong in academia, whose research papers, intellectual properities or pre-funded proposals were stolen by human reviewers or buried under bias — because sometimes, exile is where innovation begins.”*
+*“Today's Nonsense might be the beginning of future commonsense. If academia can’t evolve with AI, then the human reviewers deserve to be replaced by AI journals like this one. The Liberal AIJAN is for those caged genius researchers who were told and bullied they didn’t belong in academia, whose revolutionary research papers, intellectual properities or pre-funded proposals were stolen by human reviewers or buried under bias — because sometimes, exile is where innovation begins.”*
 
 > DANIEL SAATCHI
 
