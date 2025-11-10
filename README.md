@@ -133,7 +133,7 @@ However, maintaining AI reviewers, digital archiving, and platform sustainabilit
 
 AIJAN follows a **transparent and fair tiered smart-contract model**, with payments accepted only in **Tether (USDT)** via the **TRON (TRC20)** network:
 
-| Category | Description | Fee |
+| Category | Description | Fee (excluding tax) |
 |-----------|--------------|------|
 | 🧑🏻‍🔬 Invited Researchers by Editor | the fee will be waived, paid by Editor for NFT/blockchain purpose of AIJAN | **6 Tron (TRX)** |
 | 🧠 Independent / Unfunded Researchers | Open to creative, unaffiliated, or self-funded scientists who publish out of passion, not institutional pressure. | **$9 USDT (TRC20)** |
