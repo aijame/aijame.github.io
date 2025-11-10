@@ -143,7 +143,7 @@ AIJAN follows a **transparent and fair tiered smart-contract model**, with payme
 
 The AIJAN editor's review on cover letter cost $9 USDT because he is busy with industrial projects and have limited time; that's why he believes ArXiv is the best for your and other journals or conferences. AIJAN may waive or adjust fees in exceptional cases and editor will pay 6 TRX on Tron network for them to continue the blockchain and NFT validations in AIJAN, especially for work promoting **academic reform, open science, and AI ethics**.
 
-In addition, a 37% VAT will be applied to publication fees for all researchers — except independent researchers — due to the Spanish Government’s policy that categorizes the founding editor, who is also an MSCA AI fellow, as a taxable researcher for this journal. As a result, for instance, large funded institutions will face a total charge of $27,963.07, since the Spanish Government requires researchers (including the founding editor) to pay these taxes. 
+In addition, a 37% VAT will be applied to publication fees for all researchers — except independent researchers — due to the 🇪🇸Spanish Government’s policy that categorizes the founding editor, who is also an MSCA AI fellow, as a taxable researcher for this journal. As a result, for instance, large funded institutions will face a total charge of $27,963.07, since the 🇪🇸Spanish Government requires researchers (including the founding editor) to pay these taxes. 
 
 > *“Best for frontiers, fair for critical thinkers, and 20,411 USDT (on TRON network) for visionary institutions that can afford nonsense.”*
 
