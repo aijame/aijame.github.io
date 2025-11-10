@@ -264,6 +264,7 @@ Yes, but note that AIJAN follows US standards. Authors in Europe or other region
 - Monetization via NFT IP is supported.  
 - DOI submission is author-controlled.  
 - The platform reduces bureaucracy and middlemen.
+- Peer reviewers are anonymous AI agents, not human
 
 ##### 9. Who can I contact for support?
 Authors can reach out to AIJAN support through the founding editor's contact on X private messaging form after payments. The editor only responds if the verifiable hash number was mentioned in the cover letter and manuscript for review. If your message is not responded by the founding editor after payment, tweet him with tagging his id @danielsaatchi with #ajianhashdone and your TxID to check his direct messages. The editor hates responding to emails, wasting his time, and he prefers a quick communication channel like X social media backchannel messaging. Your accepted work will be promoted by him directly on X later. AIJAN will slowly add more automation features with a bootstrapping strategy, depending on the needs for its supporting system with advanced AI integration. 
