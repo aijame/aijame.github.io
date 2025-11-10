@@ -35,7 +35,7 @@ AIJAN studies artificial intelligence’s impact on humanity, not just how many 
 
 - Applied Mathematics Related to the following topics
 
-- AI Advancements and AI in Computational Science Domains
+- AI Advancements and AI in Computational Science Domains (e.g. computational design)
 
 - AI adaptation on Culture Technology: Art, Fashiontech, Games, Economy, and Social Consequences 
 
