@@ -143,7 +143,7 @@ AIJAN follows a **transparent and fair tiered smart-contract model**, with payme
 
 The AIJAN editor's review on cover letter cost $9 USDT because he is busy with industrial projects and have limited time; that's why he believes ArXiv is the best for your and other journals or conferences. AIJAN may waive or adjust fees in exceptional cases and editor will pay 6 TRX on Tron network for them to continue the blockchain and NFT validations in AIJAN, especially for work promoting **academic reform, open science, and AI ethics**.
 
-> *“Free for rebels, fair for thinkers, and 20,411 USDT (on TRON) for institutions that can afford nonsense.”*
+> *“Free for rebels, fair for thinkers, and 20,411 USDT (on TRON) for visionary institutions that can afford nonsense.”*
 
 ---
 
