@@ -79,7 +79,7 @@ Author’s request with a blockchain operation to Editor → 3x AI agent reviewe
 1. Receipt of $9 USDT (TRC20 network) payments to the provided cryptocurrency wallet.
 2. One-page cover letter to the editor, including #Hash Number  
 3. Send your submitted PDF in ArXiv and LaTex file (Do NOT send us your mansucripti before ArXive submission; ArXive is protecting you!)
-4. We don't have a specific format for submission. However, for ArXive and GitHub of Liberal AIJAN, you have to write in LaTeX (TextStudio)
+4. We don't have a specific format for submission. However, for ArXive and GitHub of Liberal AIJAN format conversion, you have to write in LaTeX (TextStudio). We don't accept MS words.
 5. For AI papers, we highly recommend using ICML, ILRC, AMC, or AIJAN formats
 6. Your final publications will be in AIJAN format with #Hash certificate with attached original ArXive format you submitted to us like this example appeared on AIJAN GitHub repo.
  
