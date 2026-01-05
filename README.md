@@ -138,7 +138,7 @@ AIJAN follows a **transparent and fair tiered smart-contract model**, with payme
 | 🧑🏻‍🔬 Invited Researchers & Opensource Developer by Editor | the fee will be waived, paid by Editor for NFT/blockchain purpose of AIJAN | **6 Tron (TRX)** |
 | 🧠 Independent / Unfunded Researchers | Open to creative, unaffiliated, or self-funded scientists who publish out of passion, not institutional pressure. | **$9 USDT (TRC20)** |
 | 🔬 Funded Small Research Labs | Applies to projects acknowledging a small academic or private grant in their funding section. | **$250 USDT (TRC20)** |
-| 🏢 Corporate / Institutional Big Funded Projects | Applies to large-scale, well-funded, or institutional research benefiting from organizational or governmental support. | **$20,411 USDT (TRC20)** |
+| 🏢 Institutional Big Funded Projects | Applies to large-scale, well-funded, or institutional research benefiting from organizational or governmental support. | **$20,411 USDT (TRC20)** |
 | 🚀 Fee for Premium Process | Additional fee applies within 5 working days for fast tracking submission. | **$1,460 USDT (TRC20)** |
 
 The AIJAN editor's review on cover letter cost $9 USDT because he is busy with industrial projects and have limited time; that's why he believes ArXiv is the best for your and other journals or conferences. AIJAN may waive or adjust fees in exceptional cases and editor will pay 6 TRX on Tron network for them to continue the blockchain and NFT validations in AIJAN, especially for work promoting **academic reform, open science, and AI ethics**.
