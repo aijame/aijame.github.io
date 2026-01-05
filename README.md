@@ -51,7 +51,7 @@ AIJAN studies artificial intelligence’s impact on humanity, not just how many 
 
 - AI for Computational Neuroscience and Computational Mental Health
 
-- Academic Mental Health and New-Neuroscience Research: Academic Bullying Nonsense, Polyvagal Theory, Nervous Systems
+- AI Research Ethics: Academic Mental Health and New-Neuroscience Research: Academic Bullying Nonsense, Polyvagal Theory, Nervous Systems
 
 - AI in Finance: Blockchain, DeFi Patenting, Quantitative Behavioral Finance, Financial Engineering, Researcher's Salary & Taxes Discussions
 
