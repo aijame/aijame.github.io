@@ -36,27 +36,37 @@ In all cases—whether a paper is accepted or rejected—the comments from the C
 
 AIJAM studies artificial intelligence’s impact on humanity, not just how many GPUs you can afford to overheat. We welcome submissions that are too weird (ahead of time), too honest, extraordinary creative, or too forward-thinking for traditional journals in related transdisciplinary fields— especially if your university told you “this isn’t real science,” or someone bullied you to publish more results by paying you less, affecting your mental health, or you became an  independent researcher for many possible reasons, and went out of the cage. Topics of interest include, but are not limited to:
 
-- Applied Mathematics Related to the following topics
+- Applied Mathematics in NLP, embedding or related to the following topics
 
-- AI Advancements and AI in Computational Science Domains (e.g. Computational Design)
+- AI Agents, AI Advancements, and AI in Computational Science Domains (e.g. Computational Design)
 
-- AI adaptation on Culture Technology: Art, Fashiontech, Games, Economy, and Social Consequences 
+- Disruptive Technological Displacement, Digital Inequality (e.g. internet blackout effects, AI-Media Forensics, Information Asymmetry), and cognitive overload
 
-- Technological displacement, digital inequality, and cognitive overload
+- Robotics, Mechanical Intelligence, Mechanical Computers, Transponder AI systems, AI-Chips, AI systems, Interface Intelligences
 
 - Mechanical Intelligence, Mechanical Computers, Transponder AI systems, AI-Chips, AI systems, Interface Intelligences
 
-- Metamaterials Informatics, Intelligent Metamaterials for Tranhumansim and Transpecies
+- Metamaterials Informatics, Intelligent Metamaterials, Meta-human, Tranhumansim and Transpeciess
 
 - Concept Technology Design for AI Systems and Integrations
 
+- AI‑Chips and Metamaterials Informatics
+
 - AI for Tracing Academic Bullying
 
-- AI for Computational Neuroscience and Computational Mental Health
+- Trauma Brain Injury, Brain-Interface Machines, Computational Neuroscience and Computational Mental Health
 
-- AI Research Ethics: Academic Mental Health and New-Neuroscience Research: Academic Bullying Nonsense, Polyvagal Theory, Nervous Systems
+- AI Research Ethics, Academic AI Policies, Academic Mental Health and Neuroscience Research: Academic Bullying Nonsense, Meta-Cognition, Nervous Systems, Art-Therapy
 
-- AI in Finance: Blockchain, DeFi Patenting, Quantitative Behavioral Finance, Financial Engineering, Researcher's Salary & Taxes Discussions
+- AI‑in‑Design & Computational Design, Parametric Design, Parametric Arts, Kinetic Arts
+
+- AI in Behaviorial Finance: Blockchain, DeFi Patenting, Quantitative Behavioral Finance, Financial Engineering, Researcher's Salary & Taxes Discussions
+
+- Venture Simulations & Agentic Computer Simulations
+
+- AI-XR for Virtual Try On in Fashion/Gamifications/Simulations
+
+- Smarthome AI/Robotic/Metamaterials Developments
 
 ## Before You Submit 
 ### 🧬 Why Shouldn't You Submit to AIJAM?
