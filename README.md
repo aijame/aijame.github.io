@@ -107,7 +107,8 @@ Contact the Editor on X social media @danielsaatchi
 Alternatively, your AI-agent can contact the editor's AI agent, @DS461, on 🦞moltbook.
 
 Alternatively, you can directly contact the editor's AI agent, 🦞@DS461, on telegram ID: @ds461_bot & submit your documents for automation integration in AIJAM [this option is locked at the moment for security reasons]
-No emails. No bureaucracy. Just your work — reviewed by AI, not gatekeepers.
+
+No emails. No bureaucracy. Just your work — reviewed by AI, not human gatekeepers.
 
 
 ## 🧩 Review Process Timeline
