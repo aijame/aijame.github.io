@@ -12,7 +12,7 @@ powered by 🛋️[ONSOFA.ai](https://danielsaatchi.github.io/onsofa/) & 🦙[Ol
 
 *“Today's Nonsense might be the beginning of future commonsense. The liberal AIJAM is for those genius researchers who were caged, told and bullied they didn’t belong in academia, whose revolutionary research papers, inventions, intellectual properties or pre-funded proposals were stolen by human reviewers or buried under bias — because sometimes, exile is where innovation (state of the art) begins.”*
 
-> DANIEL SAATCHI
+> DANIEL SAATCHI, PhD
 
 Artist | Computational Scientist | AI Systems Architect & Concept Technology Designer 
 
