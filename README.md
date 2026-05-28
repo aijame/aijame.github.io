@@ -6,7 +6,7 @@ The Blockchained and Liberal **AI Journal of Academic-Nonsense-Arts & Metascienc
 
 (Anonymous AI process, DeFi-IPO, open-access and open-source)
 
-Developed by 🛋️ONSOFA.ai
+powered by [🛋️ONSOFA.ai](https://danielsaatchi.github.io/onsofa/) 
 
 ## Founding Editor
 
