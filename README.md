@@ -6,7 +6,7 @@ The Blockchained and Liberal **AI Journal of Academic-Nonsense-Arts & Metascienc
 
 (decentralized AI process, DeFi-IPO, open-access and open-source)
 
-powered by 🛋️[ONSOFA.ai](https://danielsaatchi.github.io/onsofa/) & 🦙[Ollama](https://github.com/ollama/ollama)
+powered by 🛋️[ONSOFA.ai](https://danielsaatchi.github.io/onsofa/) >/ 🦙[Ollama](https://github.com/ollama/ollama) >/ 💲Tron🔺 Smartcontract
 
 ## Founding Editor
 
