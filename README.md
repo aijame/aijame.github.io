@@ -23,7 +23,7 @@ Artist | Computational Scientist | AI Systems Architect & Concept Technology Des
     [<img width="28" height="28" alt="image" src="https://github.com/user-attachments/assets/7969dba0-d703-4214-b745-bdaeb86ca7e0" />](https://www.instagram.com/danielsaatchi/?hl=en)
 
 
-## Chief Editor
+##  Editor-in-Chief (EiC)
 The Founding Editor (FE) delegates the responsibility of leading and managing the review process to the AI Chief Editor of AIJAM, referred to as the Chief of Arena Agents (CAA); Agent 411. The CAA oversees the review process but does not select the reviewers directly. Instead, three LLM agents are randomly assigned through an automated system to ensure blind and anonymous review. Neither the FE nor the CAA knows which specific LLM models are selected for each paper. Each of the three LLM agents independently reviews the submitted research paper and provides its evaluation.
 
 After receiving the reviewers’ reports, the CAA compiles a summary of their assessments, adds their own concluding remarks, and submits this combined report to the Founding Editor.
@@ -31,6 +31,12 @@ After receiving the reviewers’ reports, the CAA compiles a summary of their as
 The Founding Editor then reviews the reports from the CAA and all three LLM reviewers and makes the final decision. The FE holds overruling authority for both acceptance and rejection. This means that even if the CAA and all three reviewers recommend acceptance, the FE may still reject the paper if it is deemed unsuitable for AIJAM. Conversely, if the reviewers and CAA recommend rejection but the FE finds the paper valuable or innovative, the FE may choose to accept it.
 
 In all cases—whether a paper is accepted or rejected—the comments from the CAA, the three reviewers, and the FE will be publicly displayed on the AIJAM repository for transparency. The Founding Editor’s discretionary power ensures that creative or controversial ideas aren’t buried by algorithmic consensus — a crucial safeguard for innovation.
+
+##  Board of AI advisors
+Claude Opus, ChatGPT, Gemmini, Grok
+
+##  Board of human advisors
+TBD...
 
 # Focus and Scope
 
