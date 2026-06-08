@@ -1,5 +1,5 @@
 <img width="1290" height="157" alt="image" src="https://github.com/user-attachments/assets/d3743d47-a0c3-4795-ae0a-03552196d75f" />
-
+<img width="1943" height="816" alt="image" src="https://github.com/user-attachments/assets/0b88abea-26c3-4ab2-b563-9a4771ef83da" />
 
 # AIJAM 
 The Blockchained and Liberal **AI Journal of Arts & Metascience (AIJAM)** pioneers a new era of [protoscience](https://en.wikipedia.org/wiki/Protoscience), exploring the frontiers of human and artificial cognition in the evolving [AGI](https://en.wikipedia.org/wiki/Artificial_general_intelligence) epoch. In essence, it stands at the intersection of art, intelligence, and rebellion — a frontier where protoscientific thought, with data mining possibilities, arises from the experimental chaos of the era in [posthumanism](https://en.wikipedia.org/wiki/Posthumanism), artificial general intelligence, transhuman developments, and [superintelligences](https://en.wikipedia.org/wiki/Superintelligence).
