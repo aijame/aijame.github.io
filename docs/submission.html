@@ -334,20 +334,20 @@
           <span class="error-msg" id="err-invited">Please select an option.</span>
         </div>
 
-        <button class="submit-btn" onclick="generateReceipt()">⚡ Generate Submission Message</button>
+        <button class="submit-btn" onclick="generateReceipt()">⚡ Generate Submission Receipt</button>
       </div>
 
       <!-- Receipt -->
       <div id="receipt-card">
-        <h3>>/: Your Submission Message</h3>
+        <h3>>/: Your Submission Receipt</h3>
         <pre id="receipt-text"></pre>
-        <button class="btn-copy-receipt" id="btn-copy-receipt" onclick="copyReceipt()">📋 Copy Message</button>
+        <button class="btn-copy-receipt" id="btn-copy-receipt" onclick="copyReceipt()">📋 Copy Receipt Message</button>
         <div class="next-steps">
           <strong style="color: var(--cyan);">>/: What to do next:</strong><br>
-          1. Click <strong>Copy Message</strong> above.<br>
-          2. Paste it as a <strong>Direct Message (DM)</strong> on X/Twitter to <a href="https://x.com/danielsaatchi" target="_blank">@danielsaatchi</a><br>
+          1. Click <strong>Copy Receipt Message</strong> above.<br>
+          2. Paste it as a <strong>Direct Message (DM)</strong> on X/Twitter to editor <a href="https://x.com/danielsaatchi" target="_blank">@danielsaatchi</a><br>
           &nbsp;&nbsp;&nbsp;— OR —<br>
-          &nbsp;&nbsp;&nbsp;Send it on <strong>Telegram</strong> to <a href="https://t.me/ds461" target="_blank">@ds461</a> (Editor's AI agent/bot).<br><br>
+          &nbsp;&nbsp;&nbsp;Send it on <strong>Telegram</strong> to <a href="https://t.me/ds461" target="_blank">@ds461</a> (Editor's AI agent/bot).<br>
           3. Wait a few days for a response from the Editor on X/Twitter or Telegram.<br>
           <span style="color:#aaa; font-size:0.82rem;">AIJAM does NOT accept submissions by email. No gatekeepers. Just your work.</span>
         </div>
@@ -387,7 +387,7 @@
         btn.textContent = '✅ Copied!';
         btn.classList.add('copied');
         setTimeout(() => {
-          btn.textContent = '📋 Copy Message';
+          btn.textContent = '📋 Copy Receipt Message';
           btn.classList.remove('copied');
         }, 2500);
       });
