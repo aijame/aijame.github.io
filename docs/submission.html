@@ -6,15 +6,173 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <link rel="stylesheet" href="style.css" />
   <link rel="icon" href="metadata_images/AIJAM-favicon.ico" type="image/x-icon">
+  <style>
+    .submit-form {
+      display: flex;
+      flex-direction: column;
+      gap: 1.2rem;
+      margin-top: 1rem;
+    }
+    .field-group {
+      display: flex;
+      flex-direction: column;
+      gap: 0.35rem;
+    }
+    .field-group label {
+      font-size: 0.92rem;
+      color: var(--dark);
+      font-weight: bold;
+    }
+    .field-group .field-hint {
+      font-size: 0.8rem;
+      color: #888;
+      margin-top: -0.2rem;
+    }
+    .field-group input[type="text"],
+    .field-group input[type="email"],
+    .field-group input[type="url"],
+    .field-group textarea {
+      background: #fff;
+      border: 1px solid var(--dark);
+      border-radius: 6px;
+      padding: 0.55rem 0.8rem;
+      font-family: 'Cascadia Code', monospace;
+      font-size: 0.92rem;
+      color: var(--dark);
+      width: 100%;
+    }
+    .field-group input:focus,
+    .field-group textarea:focus {
+      outline: 2px solid var(--cyan);
+    }
+    .radio-select {
+      background: #fff;
+      border: 1px solid var(--dark);
+      border-radius: 6px;
+      padding: 0.55rem 0.8rem;
+      font-family: 'Cascadia Code', monospace;
+      font-size: 0.92rem;
+      color: var(--dark);
+      width: 100%;
+      cursor: pointer;
+      appearance: auto;
+    }
+    .radio-select:focus {
+      outline: 2px solid var(--cyan);
+    }
+    .wallet-box {
+      background: #f5f5f5;
+      border: 1px dashed var(--dark);
+      border-radius: 6px;
+      padding: 0.75rem 1rem;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 1rem;
+      flex-wrap: wrap;
+    }
+    .wallet-box code {
+      font-family: 'Cascadia Code', monospace;
+      font-size: 0.85rem;
+      color: var(--purple2);
+      word-break: break-all;
+    }
+    .btn-copy {
+      background: var(--cyan);
+      color: #fff;
+      border: none;
+      border-radius: 20px;
+      padding: 0.4rem 1.1rem;
+      font-family: 'Cascadia Code', monospace;
+      font-size: 0.85rem;
+      cursor: pointer;
+      white-space: nowrap;
+    }
+    .btn-copy:hover { background: var(--purple2); }
+    .btn-copy.copied { background: #2e7d32; }
+
+    .submit-btn {
+      align-self: flex-start;
+      padding: 0.6rem 1.8rem;
+      border-radius: 20px;
+      border: none;
+      background: var(--red);
+      color: #fff;
+      font-family: 'Cascadia Code', monospace;
+      font-size: 1rem;
+      font-weight: bold;
+      cursor: pointer;
+      margin-top: 0.5rem;
+    }
+    .submit-btn:hover { background: var(--purple2); }
+
+    /* Receipt card */
+    #receipt-card {
+      display: none;
+      background: #0d0d0d;
+      color: #e0ffe0;
+      border: 1px solid var(--cyan);
+      border-radius: 10px;
+      padding: 1.5rem 1.6rem;
+      margin-top: 2rem;
+      font-family: 'Cascadia Code', monospace;
+      font-size: 0.88rem;
+      line-height: 1.7;
+      position: relative;
+    }
+    #receipt-card h3 {
+      color: var(--cyan);
+      margin-top: 0;
+    }
+    #receipt-text {
+      white-space: pre-wrap;
+      word-break: break-word;
+    }
+    .btn-copy-receipt {
+      display: inline-block;
+      margin-top: 1rem;
+      background: var(--cyan);
+      color: #000;
+      border: none;
+      border-radius: 20px;
+      padding: 0.5rem 1.4rem;
+      font-family: 'Cascadia Code', monospace;
+      font-size: 0.9rem;
+      cursor: pointer;
+      font-weight: bold;
+    }
+    .btn-copy-receipt:hover { background: var(--purple2); color: #fff; }
+    .btn-copy-receipt.copied { background: #2e7d32; color: #fff; }
+
+    .next-steps {
+      margin-top: 1.2rem;
+      padding: 0.9rem 1rem;
+      background: #1a1a1a;
+      border-left: 3px solid var(--red);
+      border-radius: 4px;
+      color: #ccc;
+      font-size: 0.85rem;
+      line-height: 1.8;
+    }
+    .next-steps a { color: var(--cyan); }
+
+    .required-star { color: var(--red); }
+
+    .error-msg {
+      color: var(--red);
+      font-size: 0.82rem;
+      display: none;
+    }
+  </style>
 </head>
 <body>
   <header class="site-header">
     <div class="container">
       <h1 class="type-line" data-delay="700">
-        Submission Guidline
+        Submission
       </h1>
       <p class="type-line" data-delay="1800">
-        
+        blockchained by AIJAM
       </p>
     </div>
   </header>
@@ -27,505 +185,174 @@
       <a class="type-line" data-delay="1800" href="issues.html">Issues</a>
       <a class="type-line" data-delay="2000" href="contact.html">Contact</a>
       <a class="type-line" data-delay="2200" href="sponsers.html">Sponsers</a>
-
     </div>
   </nav>
 
   <main class="container main-content">
 
     <section class="card">
-      <h2 class="type-line" data-delay="1800">
-        <strong style="color: red;">Before You Submit</strong>
-      </h2><br>
-        <h3 class="type-line" data-delay="1800">
-        Why Shouldn't you Submit to AIJAM?
-      </h3>
-         <ul> 
-        <li>
-        If you are interested in publishing in AIJAM, the founding editor highly recommends first submitting your work to other reputable venues, conferences, journals, or arXiv. And if, by some miracle or misfortune, none of those paths work for you — then think of AIJAM and its founding editor as your unfortunate final destination to contact. 
-       </li>
-        
-       <li>
-          AIJAM was created to publish the founding editor’s few remaining trailblazing works in computational science, unconventional experiments, the advanced concepts technologies he designs, and the weird point of view ahead of time ideas he might share on ArXiv and AIJAM repo.
-        </li>
+      <h2 style="color: var(--red); margin-top: 0;">Submit Your Manuscript</h2>
+      <p>Fill in all required fields <span class="required-star">*</span> and complete the TRON payment before generating your submission message. Read the <a href="AuthorGuidline.html">Author Guidlines</a> before submitting.</p>
 
+      <div class="submit-form" id="submit-form">
 
-        <li>
-        AIJAM is for researchers who don’t need to publish dozens of papers a year to prove their worth. It’s for those who cherish creating one meaningful, beautifully crafted piece of work. 
-       </li>
+        <!-- 1. Article type -->
+        <div class="field-group">
+          <label>1. Type of Article <span class="required-star">*</span></label>
+          <select id="article-type" class="radio-select">
+            <option value="">— select article type —</option>
+            <option value="Review">a. Review</option>
+            <option value="Report">b. Report</option>
+            <option value="Rebuttal">c. Rebuttal</option>
+            <option value="Data">d. Data</option>
+          </select>
+          <span class="error-msg" id="err-type">Please select an article type.</span>
+        </div>
 
+        <!-- 2. Title -->
+        <div class="field-group">
+          <label for="f-title">2. Title of Article <span class="required-star">*</span></label>
+          <span class="field-hint">e.g. AI Ethics in Autonomous Decision-Making Systems</span>
+          <input type="text" id="f-title" placeholder="Your article title..." />
+          <span class="error-msg" id="err-title">Please enter the article title.</span>
+        </div>
 
-        <li>
-        This journal stands as a symbolic objection to the academic absurdities the founding editor has witnessed — a system where endless publishing metrics such as high citations or journal impact factors overshadow creativity, honesty, and mental health. Many professors may be brave enough to compete within that broken system, but few are wise enough to recognize the sinking ship — or the human cost beneath it.        
-        </li>
+        <!-- 3. Authors -->
+        <div class="field-group">
+          <label for="f-authors">3. Authors Name in Order <span class="required-star">*</span></label>
+          <span class="field-hint">Separate authors with semicolons — e.g. Michael Angelo; Elena Berbossa; Daniel Saatchi</span>
+          <input type="text" id="f-authors" placeholder="Author One; Author Two; Author Three" />
+          <span class="error-msg" id="err-authors">Please list at least one author.</span>
+        </div>
 
-        </ul>    
-    </section>
+        <!-- 4. Corresponding author details -->
+        <div class="field-group">
+          <label>4. Corresponding Author's Title <span class="required-star">*</span></label>
+          <select id="corr-title" class="radio-select">
+            <option value="">— select title —</option>
+            <option value="Mr">Mr</option>
+            <option value="Ms">Ms</option>
+            <option value="Dr">Dr</option>
+            <option value="Dra">Dra</option>
+            <option value="Prof">Prof</option>
+          </select>
+          <span class="error-msg" id="err-corr-title">Please select a title.</span>
+        </div>
 
+        <div class="field-group">
+          <label for="f-corr-name">Corresponding Author's Full Name <span class="required-star">*</span></label>
+          <span class="field-hint">e.g. Elena Berbossa</span>
+          <input type="text" id="f-corr-name" placeholder="Full name of corresponding author" />
+          <span class="error-msg" id="err-corr-name">Please enter the corresponding author's name.</span>
+        </div>
 
-       <section class="card">
-      <h2 class="type-line" data-delay="1800">
-        <strong style="color: red;">Submission Guidlines for Authors</strong>
-      </h2><br>
-         <ul> 
-        <li>
-        Before submission, request for blockchain certification hash to get the AIJAM LaTex blockchain certification format for cover letter to editor. Then, all submissions must first be prepared in LaTeX format (we recommend using TexLive) and uploaded to arXiv in accordance with its regulations. Once available on arXiv, authors may submit the link to AIJAM for review. The first review stage is conducted by AI agent reviewers, followed by an editorial decision determining whether the paper is rejected, transferred to human reviewers, or accepted for publication.
-        </li>
-      
-        <li>
-      AIJAM maintains a selective and intellectually rigorous process. Publication requires exceptional conceptual originality, strong theoretical foundations, advanced AI simulations, or significant experimental results. As such, publishing in AIJAM is more challenging than in Nature or Wiley journals, as every manuscript undergoes a unique five-step process:
-        </li>
+        <div class="field-group">
+          <label for="f-position">Corresponding Author's Position <span class="required-star">*</span></label>
+          <span class="field-hint">e.g. Professor, Postdoctoral Researcher, Independent Researcher, PhD Candidate</span>
+          <input type="text" id="f-position" placeholder="e.g. Independent Researcher" />
+          <span class="error-msg" id="err-position">Please enter the corresponding author's position.</span>
+        </div>
 
+        <div class="field-group">
+          <label for="f-affiliation">Corresponding Author's Affiliation <span class="required-star">*</span></label>
+          <span class="field-hint">e.g. Department of Computer Science, University of Oxford</span>
+          <input type="text" id="f-affiliation" placeholder="Department / Institution" />
+          <span class="error-msg" id="err-affiliation">Please enter the corresponding author's affiliation.</span>
+        </div>
 
-        <li>
-      Author’s request with a blockchain operation to Editor → 3x AI agent reviewers (🤖🤖🤖) based on AIIA framekwork developed by ONSOFA.ai and AIJAM → Editor’s evaluation → Human reviewer (optional) → Final decision
-       </li>
+        <!-- 5. Corresponding email -->
+        <div class="field-group">
+          <label for="f-email">Corresponding Author's Email <span class="required-star">*</span></label>
+          <span class="field-hint">e.g. eberbossa@ox.ac.uk</span>
+          <input type="email" id="f-email" placeholder="corresponding@institution.ac.uk" />
+          <span class="error-msg" id="err-email">Please enter a valid email address.</span>
+        </div>
 
-        </ul>    
+        <!-- 5. Telegram ID (optional) -->
+        <div class="field-group">
+          <label for="f-telegram">5. Telegram ID <span style="font-weight:normal;color:#888;">(optional)</span></label>
+          <span class="field-hint">e.g. berbossas — the @ will be added automatically if missing</span>
+          <input type="text" id="f-telegram" placeholder="yourhandle" />
+        </div>
 
-        <h3 class="type-line" data-delay="1800">
-      Required Documents to Submit 
-      </h3><br>
-      <ul>
-        <p>
-      1. Receipt of $9 USDT (TRC20 network) payments to the provided cryptocurrency wallet.
-      </p>
-        <p>
-      2. One-page cover letter to the editor in PDF format, including #Hash Number
-      </p>
-       <p>
-      3. Send your submitted PDF in ArXiv and LaTex file (Do NOT send us your manuscript with blockchain certification before ArXiv submission; ArXiv step is protecting you!)
-      </p>
-       <p>
-      4. We don't have a specific format for submission. However, for ArXiv and GitHub of the AIJAM format conversion, you have to write in LaTeX (TextStudio). We don't accept MS words.
-      </p>
-     <p>
-      5. For AI papers' initial manuscript, we highly recommend using ICML, ILRC, AMC that can be converted to AIJAM LateX format, or use AIJAM format directly.
-    </p> 
-     <p>
-      6.Your final publications will be in AIJAM format with a blockchain #Hash certificate with attached original ArXive format you submitted to us like the example appeared on AIJAM GitHub repo.
-    </p>   
-      </ul>
+        <!-- 6. X/Twitter ID (optional) -->
+        <div class="field-group">
+          <label for="f-twitter">6. X / Twitter ID <span style="font-weight:normal;color:#888;">(optional)</span></label>
+          <span class="field-hint">e.g. @berbossas — the @ will be added automatically if missing</span>
+          <input type="text" id="f-twitter" placeholder="@yourhandle" />
+        </div>
 
-    <h3 class="type-line" data-delay="1800">
-      Submission Channel 
-    </h3>
-    <ul>
-      <li>
-      AIJAM does NOT accept submissions by email.      
-      </li>
-      <li>
-      To maintain privacy, transparency, and AI-integrated review, authors should submit their cover letter and ArXiv Link or manuscript (LaTeX / PDF) with #Hash certificate of payments through one of the following channels:      
-      </li>
-    <li>
-    Contact the Editor on X social media through private message: @danielsaatchi    
-    </li>
-      <li>
-    Altneratively, your AI-agent can contact the editor's AI agent, @DS461, on 🦞moltbook.  
-    </li>
-      <li>
-    Altneratively, you can directly contact editor's AI agent, 🦞@DS461, on telegram ID: @ds461_bot & submit your documents for automation integration in AIJAM [this option is locked at the moment for security reason] 
-    </li>
-      <li>
-    No emails. No bureaucracy. Just your work — recieved by AI agent and reviewed by AI agents, no gatekeepers.   
-      </li>
-          </ul>
+        <!-- 7. Cover letter link -->
+        <div class="field-group">
+          <label for="f-cover">7. Link to Cover Letter PDF for Editor <span class="required-star">*</span></label>
+          <span class="field-hint">e.g. a public Google Drive link to your cover letter PDF</span>
+          <input type="url" id="f-cover" placeholder="https://drive.google.com/..." />
+          <span class="error-msg" id="err-cover">Please provide a link to your cover letter.</span>
+        </div>
 
-    </section>
+        <!-- 8. Main article link -->
+        <div class="field-group">
+          <label for="f-article">8. Link to Main Article <span class="required-star">*</span></label>
+          <span class="field-hint">e.g. Google Drive, ArXiv, or Zenodo link</span>
+          <input type="url" id="f-article" placeholder="https://arxiv.org/abs/..." />
+          <span class="error-msg" id="err-article">Please provide a link to your main article.</span>
+        </div>
 
-    <section class="card">
-      <h2 class="type-line" data-delay="1800">
-        <strong style="color: red;">Review Process Timeline </strong>
-      </h2><br>
-      <ul>
-      <li>
-      AIJAM’s review process combines automation, trust, and a healthy dose of academic nonsense.     
-      </li>
-     <li>
-      We don’t rush, and we don’t worship deadlines — but here’s how the journey usually unfolds:    
-    </li><br>
+        <!-- 9. Supporting materials (optional) -->
+        <div class="field-group">
+          <label for="f-supp">9. Link to Supporting Materials <span style="font-weight:normal;color:#888;">(optional)</span></label>
+          <span class="field-hint">Shared Google Drive folder for supplementary appendix and videos</span>
+          <input type="url" id="f-supp" placeholder="https://drive.google.com/drive/folders/..." />
+        </div>
 
-<table border="1" style="width: 80%; margin: 20px auto; border-collapse: collapse;">
-  <thead style="background-color: #f2f2f2;">
-    <tr>
-      <th style="padding: 8px; border: 1px solid #ddd;">Stage</th>
-      <th style="padding: 8px; border: 1px solid #ddd;">Description</th>
-      <th style="padding: 8px; border: 1px solid #ddd;">Estimated Duration</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="padding: 8px; border: 1px solid #ddd;"><b>1️⃣ Submission (ArXiv Format)</b></td>
-      <td style="padding: 8px; border: 1px solid #ddd;">Author submits paper in LaTeX format (ArXiv-ready).</td>
-      <td style="padding: 8px; border: 1px solid #ddd;">Instant</td>
-    </tr>
+        <!-- 10. GitHub repo (optional) -->
+        <div class="field-group">
+          <label for="f-github">10. Link to GitHub Repo for Article <span style="font-weight:normal;color:#888;">(optional)</span></label>
+          <input type="url" id="f-github" placeholder="https://github.com/yourname/your-repo" />
+        </div>
 
-    <tr>
-      <td style="padding: 8px; border: 1px solid #ddd;"><b>2️⃣ AI Screening (Automated Review)</b></td>
-      <td style="padding: 8px; border: 1px solid #ddd;">Three AI reviewer agents read, analyze, and score the manuscript. They flag brilliance, bias, or boredom.</td>
-      <td style="padding: 8px; border: 1px solid #ddd;">1–7 days</td>
-    </tr>
+        <!-- 11. Tron payment -->
+        <div class="field-group">
+          <label>11. TRON Payment — Send 6 TRX <span class="required-star">*</span></label>
+          <p style="margin:0 0 0.5rem; font-size:0.88rem;">Send exactly <strong>6 TRX</strong> to the AIJAM wallet address below. Then paste your transaction hash in the field.</p>
+          <div class="wallet-box">
+            <code id="wallet-addr">TWr6cA1zGTj4B28PEdKUZfv8UKCN8LAaAr</code>
+            <button class="btn-copy" id="btn-copy-wallet" onclick="copyWallet()">📋 Copy Address</button>
+          </div>
+          <input type="text" id="f-txhash" placeholder="Paste your TRON transaction hash here after payment..." style="margin-top:0.5rem;" />
+          <span class="error-msg" id="err-txhash">Please paste your TRON transaction hash.</span>
+        </div>
 
-    <tr>
-      <td style="padding: 8px; border: 1px solid #ddd;"><b>3️⃣ Editor Evaluation</b></td>
-      <td style="padding: 8px; border: 1px solid #ddd;">
-        The Editor reviews AI feedback and decides whether to:<br>
-        - Reject<br>
-        - Transfer to human peer-review<br>
-        - Accept for AIJAM publication
-      </td>
-      <td style="padding: 8px; border: 1px solid #ddd;">7–14 days</td>
-    </tr>
+        <!-- 12. Invited? -->
+        <div class="field-group">
+          <label>12. Did the Editor Invite You for Submission? <span class="required-star">*</span></label>
+          <select id="invited" class="radio-select">
+            <option value="">— select —</option>
+            <option value="Yes">a. Yes</option>
+            <option value="No">b. No</option>
+          </select>
+          <span class="error-msg" id="err-invited">Please select an option.</span>
+        </div>
 
-    <tr>
-      <td style="padding: 8px; border: 1px solid #ddd;"><b>4️⃣ Optional Human Peer-Review</b></td>
-      <td style="padding: 8px; border: 1px solid #ddd;">For papers needing additional scrutiny or humor correction, human reviewers may be invited.</td>
-      <td style="padding: 8px; border: 1px solid #ddd;">14–30 days</td>
-    </tr>
+        <button class="submit-btn" onclick="generateReceipt()">⚡ Generate Submission Message</button>
+      </div>
 
-    <tr>
-      <td style="padding: 8px; border: 1px solid #ddd;"><b>5️⃣ Final Editorial Decision</b></td>
-      <td style="padding: 8px; border: 1px solid #ddd;">The Editor delivers a final decision. Some papers are published instantly, others might wait until 2041.</td>
-      <td style="padding: 8px; border: 1px solid #ddd;">Flexible</td>
-    </tr>
+      <!-- Receipt -->
+      <div id="receipt-card">
+        <h3>>/: Your Submission Message</h3>
+        <pre id="receipt-text"></pre>
+        <button class="btn-copy-receipt" id="btn-copy-receipt" onclick="copyReceipt()">📋 Copy Message</button>
+        <div class="next-steps">
+          <strong style="color: var(--cyan);">>/: What to do next:</strong><br>
+          1. Click <strong>Copy Message</strong> above.<br>
+          2. Paste it as a <strong>Direct Message (DM)</strong> on X/Twitter to <a href="https://x.com/danielsaatchi" target="_blank">@danielsaatchi</a><br>
+          &nbsp;&nbsp;&nbsp;— OR —<br>
+          &nbsp;&nbsp;&nbsp;Send it on <strong>Telegram</strong> to <a href="https://t.me/ds461" target="_blank">@ds461</a> (Editor's AI agent/bot).<br><br>
+          3. Wait a few days for a response from the Editor on X/Twitter or Telegram.<br>
+          <span style="color:#aaa; font-size:0.82rem;">AIJAM does NOT accept submissions by email. No gatekeepers. Just your work.</span>
+        </div>
+      </div>
 
-    <tr>
-      <td style="padding: 8px; border: 1px solid #ddd;"><b>6️⃣ Publication & Archiving</b></td>
-      <td style="padding: 8px; border: 1px solid #ddd;">Accepted works appear on <b>ArXiv</b>, <b>AIJAM GitHub</b>, and <b>AIJAM LinkedIn Channel</b>.</td>
-      <td style="padding: 8px; border: 1px solid #ddd;">Within 7 days of acceptance</td>
-    </tr>
-  </tbody>
-</table>
-
-
-    
-    <h3 class="type-line" data-delay="1800">
-    🕐 Average Total Review Time:      
-      </h3>
-
-      <li>~3–6 weeks (or 15 years, depending on philosophical depth), <strong style="color: rgb(21, 183, 211);"><strong style="font-style: italic;"></strong>
-      “AIJAM doesn’t chase deadlines — it chases meaning.” </strong>  </li><br>
-
-      </section>
-        
-      
-    <section class="card">
-
-    <h2 class="type-line" data-delay="1800">
-    📰 Where It Will Be Published?     
-      </h2>
-      
-      <p>If accepted, your work will appear:</p>
-      <ul>
-      <li>🧾 On [arXiv.org] — so people can actually read it.</li>
-      <li>🐈 On the AIJAM GitHub — for transparency, version control, and managements.</li>
-      <li>🟦 On AIJAM’s LinkedIn Channel — because that’s where the real industrial-academic wars happen.</li>
-      </ul>
-
-    </section>
-
-
-        <section class="card">
-
-    <h3 class="type-line" data-delay="1800">
-    💵 Publication Fee Policy (USDT – TRON Network)    
-      </h3>
-      
-      <p>AIJAM (AI Journal of Academic Nonsense) is not a non-predatory journal (we highly suggest you submit to other journals or ArXiv).</p>
-      <p>We believe knowledge, creativity, and rebellion in science should remain open. However, maintaining AI reviewers, digital archiving, and platform sustainability requires financial operations and editors' limited time to review.</p>
-      </p>
-      <p>AIJAM follows a transparent and fair tiered smart-contract model, with payments accepted only in Tether (USDT) via the TRON (TRC20) network:</p>
-
-<table border="1" style="width: 80%; margin: 20px auto; border-collapse: collapse;">
-  <thead style="background-color: #f2f2f2;">
-    <tr>
-      <th style="padding: 8px; border: 1px solid #ddd;">Category</th>
-      <th style="padding: 8px; border: 1px solid #ddd;">Description</th>
-      <th style="padding: 8px; border: 1px solid #ddd;">Fee (exclud. VAT)</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="padding: 8px; border: 1px solid #ddd;">🧑🏻‍🔬 Invited Researchers & Opensource Developer by Editor</td>
-      <td style="padding: 8px; border: 1px solid #ddd;">the fee will be waived, paid by Editor for NFT/blockchain purpose of AIJAM</td>
-      <td style="padding: 8px; border: 1px solid #ddd;"><b>6 Tron (TRX)</b></td>
-    </tr>
-    <tr>
-      <td style="padding: 8px; border: 1px solid #ddd;">🧠 Independent / Unfunded Researchers</td>
-      <td style="padding: 8px; border: 1px solid #ddd;">Open to creative, unaffiliated, or self-funded scientists who publish out of passion, not institutional pressure.</td>
-      <td style="padding: 8px; border: 1px solid #ddd;"><b>$9 USDT (TRC20)</b></td>
-    </tr>
-    <tr>
-      <td style="padding: 8px; border: 1px solid #ddd;">🔬 Funded Small Research Labs</td>
-      <td style="padding: 8px; border: 1px solid #ddd;">Applies to projects acknowledging a small academic or private grant in their funding section.</td>
-      <td style="padding: 8px; border: 1px solid #ddd;"><b>$250 USDT (TRC20)</b></td>
-    </tr>
-    <tr>
-      <td style="padding: 8px; border: 1px solid #ddd;">🏢 Institutional Big Funded Projects</td>
-      <td style="padding: 8px; border: 1px solid #ddd;">Applies to large-scale, well-funded, or institutional research benefiting from organizational, corporate, or governmental support.</td>
-      <td style="padding: 8px; border: 1px solid #ddd;"><b>$20,411 USDT (TRC20)</b></td>
-    </tr>
-    <tr>
-      <td style="padding: 8px; border: 1px solid #ddd;">🚀 Fee for Premium Process</td>
-      <td style="padding: 8px; border: 1px solid #ddd;">Additional fee applies within 5 working days for fast tracking submission.</td>
-      <td style="padding: 8px; border: 1px solid #ddd;"><b>$1,460 USDT (TRC20)</b></td>
-    </tr>
-  </tbody>
-</table>
-
-    <p>
-      The AIJAM editor's review on cover letter cost $9 USDT because he is busy with industrial projects and have limited time; that's why he believes ArXiv is the best for your and other journals or conferences. AIJAM may waive or adjust fees in exceptional cases and editor will pay 6 TRX on Tron network for them to continue the blockchain and NFT validations in AIJAM, especially for work promoting academic reform, open science, and AI ethics.
-    </p>
-
-      <p>
-        In addition, a 37% VAT will be applied to publication fees for all researchers — except independent researchers — due to the Spanish Government’s nonsense policy that categorizes the founding editor, who was also an MSCA AI fellow, as a taxable researcher for this journal. As a result, for instance, large funded institutions will face a total charge of $27,963.07, since the Spanish Government requires researchers (including the founding editor) to pay these taxes.
-      </p>
-         <p>
-        <strong style="font-style: italic;">
-      “For frontiers with IQ 185+, fair for critical thinkers, and 20,411 USDT (on TRON network) for visionary institutions that can afford nonsense”   
-      </strong></p>
-
-    <h3 class="type-line" data-delay="1800">
-    Payment Method:  
-      </h3>
-      <p>💵 Tether (USDT) on TRON Network (TRC20)</p>
-      <p>📬 Wallet address will be provided after acceptance.</p>
-  </section>
-
-        
-<section class="card">
-      <h3 class="type-line" data-delay="1800">
-🧠 AIJAM — Decentralized Scholarly Publishing & Proof-of-Invention Framework      
-</h3>
-<p>
-  AIJAM (Artificial Intelligence Journal for Autonomous Networks) integrates academic validation, blockchain certification, and open-access publishing to protect the intellectual property of independent researchers, engineers, and artists — without the high costs of national or international patent filing.
-</p>
-
-        <p>
-        Purpose:<br><strong style="font-style: italic;">
-      "To enable postman-level patenting — allowing creators to timestamp, verify, and publicly disclose original inventions through open-access and blockchain technologies."
-      </strong></p>
-</section>
-
-
-      <section class="card">
-      <h3 class="type-line" data-delay="1800">
-🧠 AIJAM — Decentralized Scholarly Publishing & Proof-of-Invention Framework         
-    </h3>
-
-<table border="1" style="width: 80%; margin: 20px auto; border-collapse: collapse;">
-  <thead style="background-color: #f2f2f2;">
-    <tr>
-      <th style="padding: 8px; border: 1px solid #ddd;">Step</th>
-      <th style="padding: 8px; border: 1px solid #ddd;">Layer</th>
-      <th style="padding: 8px; border: 1px solid #ddd;">Function</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="padding: 8px; border: 1px solid #ddd;">1️⃣</td>
-      <td style="padding: 8px; border: 1px solid #ddd;"><b>ArXiv</b></td>
-      <td style="padding: 8px; border: 1px solid #ddd;">Academic timestamp — establishes early public disclosure and author priority.</td>
-    </tr>
-    <tr>
-      <td style="padding: 8px; border: 1px solid #ddd;">2️⃣</td>
-      <td style="padding: 8px; border: 1px solid #ddd;"><b>NFT / Blockchain</b></td>
-      <td style="padding: 8px; border: 1px solid #ddd;">Cryptographic proof — certifies originality and authorship with immutable global record.</td>
-    </tr>
-    <tr>
-      <td style="padding: 8px; border: 1px solid #ddd;">3️⃣</td>
-      <td style="padding: 8px; border: 1px solid #ddd;"><b>DOI / Zenodo Option</b></td>
-      <td style="padding: 8px; border: 1px solid #ddd;">Scholarly citation record — registers final paper for global discoverability and reference.</td>
-    </tr>
-  </tbody>
-</table>
-
-        <p><strong style="font-style: italic;">
-      “Authors can obtain their DOI submissions from ZENDO themselves after acceptance by ArXiv and AIJAM, supporting a more decentralized AIJAM operation. Unlike traditional journals, AIJAM does not require full copyright transfer from authors and only charges for blockchain operations. Additionally, AIJAM provides NFT minting for authors’ wallets, allowing them to sell their IP NFTs directly to others. In this way, AIJAM acts as a catalyst, eliminating middlemen.”      
-       </strong></p>
-
-      </section>
-
-     <section class="card">
-      <h3 class="type-line" data-delay="1800">
-📊 Comparison: arXiv ID vs. DOI vs. AIJAM Blockchain Hash       
-    </h3>
-
-<table border="1" style="width: 95%; margin: 20px auto; border-collapse: collapse;">
-  <thead style="background-color: #f2f2f2;">
-    <tr>
-      <th style="padding: 8px; border: 1px solid #ddd;">Feature</th>
-      <th style="padding: 8px; border: 1px solid #ddd;">arXiv ID</th>
-      <th style="padding: 8px; border: 1px solid #ddd;">DOI</th>
-      <th style="padding: 8px; border: 1px solid #ddd;">NFT / Blockchain Hash (AIJAM Method)</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="padding: 8px; border: 1px solid #ddd;"><b>Definition</b></td>
-      <td style="padding: 8px; border: 1px solid #ddd;">Scholarly preprint identifier from arXiv.org</td>
-      <td style="padding: 8px; border: 1px solid #ddd;">Persistent scholarly identifier via DataCite/CrossRef</td>
-      <td style="padding: 8px; border: 1px solid #ddd;">Cryptographic record of authorship stored on a public blockchain</td>
-    </tr>
-    <tr>
-      <td style="padding: 8px; border: 1px solid #ddd;"><b>Issuer / Registrar</b></td>
-      <td style="padding: 8px; border: 1px solid #ddd;">Cornell University Library</td>
-      <td style="padding: 8px; border: 1px solid #ddd;">Publishers / DataCite / CrossRef</td>
-      <td style="padding: 8px; border: 1px solid #ddd;">Public blockchain (e.g., TRON, ETH, BTC)</td>
-    </tr>
-    <tr>
-      <td style="padding: 8px; border: 1px solid #ddd;"><b>Cost to Obtain</b></td>
-      <td style="padding: 8px; border: 1px solid #ddd;">✅ Free</td>
-      <td style="padding: 8px; border: 1px solid #ddd;">⚠️ Publisher or institutional fee</td>
-      <td style="padding: 8px; border: 1px solid #ddd;">✅ Minimal blockchain fee (&lt; $1)</td>
-    </tr>
-    <tr>
-      <td style="padding: 8px; border: 1px solid #ddd;"><b>Recognition in Academia</b></td>
-      <td style="padding: 8px; border: 1px solid #ddd;">✅ High (trusted globally)</td>
-      <td style="padding: 8px; border: 1px solid #ddd;">✅ Very high (formal scholarly standard)</td>
-      <td style="padding: 8px; border: 1px solid #ddd;">⚠️ Emerging, not yet standard</td>
-    </tr>
-    <tr>
-      <td style="padding: 8px; border: 1px solid #ddd;"><b>Timestamp Authenticity</b></td>
-      <td style="padding: 8px; border: 1px solid #ddd;">✅ Server-based verification</td>
-      <td style="padding: 8px; border: 1px solid #ddd;">✅ DOI metadata timestamp</td>
-      <td style="padding: 8px; border: 1px solid #ddd;">✅ Immutable on-chain timestamp</td>
-    </tr>
-    <tr>
-      <td style="padding: 8px; border: 1px solid #ddd;"><b>Proof of Authorship</b></td>
-      <td style="padding: 8px; border: 1px solid #ddd;">❌ No</td>
-      <td style="padding: 8px; border: 1px solid #ddd;">❌ No</td>
-      <td style="padding: 8px; border: 1px solid #ddd;">✅ Yes (linked to author’s crypto wallet)</td>
-    </tr>
-    <tr>
-      <td style="padding: 8px; border: 1px solid #ddd;"><b>Tamper-Proof Record</b></td>
-      <td style="padding: 8px; border: 1px solid #ddd;">⚠️ Editable (revisions allowed)</td>
-      <td style="padding: 8px; border: 1px solid #ddd;">✅ Version-controlled</td>
-      <td style="padding: 8px; border: 1px solid #ddd;">✅ Fully immutable cryptographic record</td>
-    </tr>
-    <tr>
-      <td style="padding: 8px; border: 1px solid #ddd;"><b>Verification Platform</b></td>
-      <td style="padding: 8px; border: 1px solid #ddd;">arXiv.org</td>
-      <td style="padding: 8px; border: 1px solid #ddd;">doi.org / DataCite</td>
-      <td style="padding: 8px; border: 1px solid #ddd;">TronScan / Etherscan / Blockchain explorer</td>
-    </tr>
-    <tr>
-      <td style="padding: 8px; border: 1px solid #ddd;"><b>Global Accessibility</b></td>
-      <td style="padding: 8px; border: 1px solid #ddd;">✅ Free and open</td>
-      <td style="padding: 8px; border: 1px solid #ddd;">✅ Free and open</td>
-      <td style="padding: 8px; border: 1px solid #ddd;">✅ Publicly verifiable worldwide</td>
-    </tr>
-    <tr>
-      <td style="padding: 8px; border: 1px solid #ddd;"><b>Citable in Literature</b></td>
-      <td style="padding: 8px; border: 1px solid #ddd;">✅ Yes</td>
-      <td style="padding: 8px; border: 1px solid #ddd;">✅ Yes</td>
-      <td style="padding: 8px; border: 1px solid #ddd;">⚠️ With explanatory citation note</td>
-    </tr>
-    <tr>
-      <td style="padding: 8px; border: 1px solid #ddd;"><b>Indexing (Scholar / Scopus)</b></td>
-      <td style="padding: 8px; border: 1px solid #ddd;">✅ Yes</td>
-      <td style="padding: 8px; border: 1px solid #ddd;">✅ Yes</td>
-      <td style="padding: 8px; border: 1px solid #ddd;">❌ Not yet indexed</td>
-    </tr>
-    <tr>
-      <td style="padding: 8px; border: 1px solid #ddd;"><b>Storage Permanence</b></td>
-      <td style="padding: 8px; border: 1px solid #ddd;">✅ High</td>
-      <td style="padding: 8px; border: 1px solid #ddd;">✅ High</td>
-      <td style="padding: 8px; border: 1px solid #ddd;">✅ Blockchain-permanent</td>
-    </tr>
-    <tr>
-      <td style="padding: 8px; border: 1px solid #ddd;"><b>Funding Requirement</b></td>
-      <td style="padding: 8px; border: 1px solid #ddd;">✅ None</td>
-      <td style="padding: 8px; border: 1px solid #ddd;">⚠️ Institutional or publisher fee</td>
-      <td style="padding: 8px; border: 1px solid #ddd;">✅ None beyond minimal gas cost</td>
-    </tr>
-    <tr>
-      <td style="padding: 8px; border: 1px solid #ddd;"><b>Use for IP Timestamping</b></td>
-      <td style="padding: 8px; border: 1px solid #ddd;">⚠️ Weak legal standing</td>
-      <td style="padding: 8px; border: 1px solid #ddd;">⚠️ Indirect (via DOI record)</td>
-      <td style="padding: 8px; border: 1px solid #ddd;">✅ Strong cryptographic timestamp usable as proof of intellectual ownership</td>
-    </tr>
-    <tr>
-      <td style="padding: 8px; border: 1px solid #ddd;"><b>Bypassing High Patent Costs</b></td>
-      <td style="padding: 8px; border: 1px solid #ddd;">❌ No</td>
-      <td style="padding: 8px; border: 1px solid #ddd;">❌ No</td>
-      <td style="padding: 8px; border: 1px solid #ddd;">🥇 Yes — provides prior low-cost digital proof of state of art, bypassing national and international patent fees</td>
-    </tr>
-    <tr>
-      <td style="padding: 8px; border: 1px solid #ddd;"><b>Accessibility to Researchers Without Funds</b></td>
-      <td style="padding: 8px; border: 1px solid #ddd;">✅ Excellent</td>
-      <td style="padding: 8px; border: 1px solid #ddd;">⚠️ Limited if fees apply</td>
-      <td style="padding: 8px; border: 1px solid #ddd;">✅ Excellent — accessible with any crypto wallet</td>
-    </tr>
-    <tr>
-      <td style="padding: 8px; border: 1px solid #ddd;"><b>Practical IP Protection for Independent Researchers</b></td>
-      <td style="padding: 8px; border: 1px solid #ddd;">⚠️ Limited (academic priority only)</td>
-      <td style="padding: 8px; border: 1px solid #ddd;">⚠️ Costly or institutional</td>
-      <td style="padding: 8px; border: 1px solid #ddd;">🥇 Excellent — decentralized, timestamped proof of originality without legal filing barriers</td>
-    </tr>
-    <tr>
-      <td style="padding: 8px; border: 1px solid #ddd;"><b>Best Use Case in AIJAM</b></td>
-      <td style="padding: 8px; border: 1px solid #ddd;">Early preprint timestamp</td>
-      <td style="padding: 8px; border: 1px solid #ddd;">Formal citation record</td>
-      <td style="padding: 8px; border: 1px solid #ddd;">Intellectual property preservation via blockchain verification</td>
-    </tr>
-  </tbody>
-</table>
-
-  </section>
-
-  
-     <section class="card">
-      <h2 class="type-line" data-delay="1800">
-      🧩 Summary   
-    </h2>
-    <p>
-    AIJAM’s mission is to remove the human middlemen to democratize invention and authorship protection through open science and blockchain technology.
-
-    </p>
-      <h3 class="type-line" data-delay="1800">
-      ✳️ Key Benefits  
-    </h3>
-      <li>
-    🪙 Bypass costly IPs and patent systems using blockchain timestamping and authorship verification.
-      </li>
-      
-      <li>
-    🧬 Protect intellectual property cryptographically, linking a permanent NFT hash to each published work.
-      </li>
-
-    <li>
-    🌍 Ensure accessibility to independent researchers, creators, and inventors without funding or affiliation.      
-    
-    </li>
-
-    <li>
-    🔗 Bridge academia and decentralized networks — combining credibility (arXiv/DOI) with immutability (NFT Hash).    
-    </li>
-
-    <h2 class="type-line" data-delay="1800">
-      🧾 Example Blockchain Certificate 
-    </h2>
-
-
-
-  <h2>TRON Transaction Details</h2>
-
-  <p><strong>Network:</strong> TRON</p>
-  <p><strong>From Wallet:</strong> TXXXXXXRECEIVER</p>
-  <p><strong>To Wallet:</strong> TXXXXXXRECEIVER</p>
-  <p><strong>Amount (TRON):</strong> 6</p>
-  <p><strong>Status:</strong> Confirmed</p>
-  <p><strong>Transaction ID (TXID):</strong> a3f1b2c4d5e6f7890a1b2c3d4e5f67890abcdef1234567890abcdef1234567890</p>
-  <p><strong>Timestamp:</strong> 2025-11-01T14:23:45Z</p>
-  <p><strong>Block:</strong> 782191</p>
-
-  <hr>
-
-  <p>AIJAM Decentralized Authorship Verification</p>
-  <p>AIJAM provides decentralized authorship verification that complements, not replaces, IPs, copyrights, or patents.  No middleman by cryptographically timestamping inventions and research papers on public blockchains, AIJAM gives underfunded researchers the ability to prove originality and authorship globally — bypassing the prohibitive costs of international patent systems while maintaining legal credibility as timestamp evidence.</p>
-
-    
     </section>
 
   </main>
@@ -539,5 +366,183 @@
   </footer>
 
   <script src="typing.js"></script>
+  <script>
+    function copyWallet() {
+      const addr = document.getElementById('wallet-addr').textContent;
+      navigator.clipboard.writeText(addr).then(() => {
+        const btn = document.getElementById('btn-copy-wallet');
+        btn.textContent = '✅ Copied!';
+        btn.classList.add('copied');
+        setTimeout(() => {
+          btn.textContent = '📋 Copy Address';
+          btn.classList.remove('copied');
+        }, 2500);
+      });
+    }
+
+    function copyReceipt() {
+      const text = document.getElementById('receipt-text').textContent;
+      navigator.clipboard.writeText(text).then(() => {
+        const btn = document.getElementById('btn-copy-receipt');
+        btn.textContent = '✅ Copied!';
+        btn.classList.add('copied');
+        setTimeout(() => {
+          btn.textContent = '📋 Copy Message';
+          btn.classList.remove('copied');
+        }, 2500);
+      });
+    }
+
+    function normaliseHandle(val, prefix) {
+      // prefix is '@' or '@'
+      if (!val || val.trim() === '') return '';
+      val = val.trim();
+      if (!val.startsWith(prefix)) val = prefix + val;
+      return val;
+    }
+
+    function generateReceipt() {
+      // Clear errors
+      document.querySelectorAll('.error-msg').forEach(e => e.style.display = 'none');
+
+      let valid = true;
+
+      // 1. Article type
+      const articleType = document.getElementById('article-type').value;
+      if (!articleType) {
+        document.getElementById('err-type').style.display = 'block';
+        valid = false;
+      }
+
+      // 2. Title
+      const title = document.getElementById('f-title').value.trim();
+      if (!title) {
+        document.getElementById('err-title').style.display = 'block';
+        valid = false;
+      }
+
+      // 3. Authors
+      const authors = document.getElementById('f-authors').value.trim();
+      if (!authors) {
+        document.getElementById('err-authors').style.display = 'block';
+        valid = false;
+      }
+
+      // 4. Corresponding author details
+      const corrTitle = document.getElementById('corr-title').value;
+      if (!corrTitle) {
+        document.getElementById('err-corr-title').style.display = 'block';
+        valid = false;
+      }
+      const corrName = document.getElementById('f-corr-name').value.trim();
+      if (!corrName) {
+        document.getElementById('err-corr-name').style.display = 'block';
+        valid = false;
+      }
+      const position = document.getElementById('f-position').value.trim();
+      if (!position) {
+        document.getElementById('err-position').style.display = 'block';
+        valid = false;
+      }
+      const affiliation = document.getElementById('f-affiliation').value.trim();
+      if (!affiliation) {
+        document.getElementById('err-affiliation').style.display = 'block';
+        valid = false;
+      }
+
+      // Email
+      const email = document.getElementById('f-email').value.trim();
+      const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+      if (!email || !emailRegex.test(email)) {
+        document.getElementById('err-email').style.display = 'block';
+        valid = false;
+      }
+
+      // Cover letter
+      const cover = document.getElementById('f-cover').value.trim();
+      if (!cover) {
+        document.getElementById('err-cover').style.display = 'block';
+        valid = false;
+      }
+
+      // Main article
+      const article = document.getElementById('f-article').value.trim();
+      if (!article) {
+        document.getElementById('err-article').style.display = 'block';
+        valid = false;
+      }
+
+      // TX hash — accept raw hash or full TronScan URL, always normalise
+      const txRaw = document.getElementById('f-txhash').value.trim();
+      if (!txRaw) {
+        document.getElementById('err-txhash').style.display = 'block';
+        valid = false;
+      }
+      const txHashOnly = txRaw
+        .replace(/https?:\/\/tronscan\.org\/#?\/transaction\//i, '')
+        .replace(/https?:\/\/tronscan\.org\/transaction\//i, '')
+        .split('/')[0]
+        .trim();
+      const txhash = `https://tronscan.org/transaction/${txHashOnly}/overview`;
+
+      // Invited
+      const invited = document.getElementById('invited').value;
+      if (!invited) {
+        document.getElementById('err-invited').style.display = 'block';
+        valid = false;
+      }
+
+      if (!valid) {
+        document.getElementById('receipt-card').style.display = 'none';
+        return;
+      }
+
+      // Optional fields
+      const rawTelegram = document.getElementById('f-telegram').value.trim();
+      const rawTwitter  = document.getElementById('f-twitter').value.trim();
+      const supp        = document.getElementById('f-supp').value.trim();
+      const github      = document.getElementById('f-github').value.trim();
+
+      // Auto-add @ if missing
+      const telegramId = rawTelegram ? normaliseHandle(rawTelegram, '@') : 'N/A';
+      const twitterId  = rawTwitter  ? normaliseHandle(rawTwitter,  '@') : 'N/A';
+
+      const msg =
+`>/: AIJAM SUBMISSION REQUEST
+================================
+Article Type   : ${articleType}
+Title          : ${title}
+Authors        : ${authors}
+--------------------------------
+Corresponding Author
+  Title        : ${corrTitle}
+  Name         : ${corrName}
+  Position     : ${position}
+  Affiliation  : ${affiliation}
+  Email        : ${email}
+  Telegram ID  : ${telegramId}
+  X/Twitter ID : ${twitterId}
+--------------------------------
+Cover Letter   : ${cover}
+Main Article   : ${article}
+Supp. Materials: ${supp || 'N/A'}
+GitHub Repo    : ${github || 'N/A'}
+--------------------------------
+TRON Wallet    : TWr6cA1zGTj4B28PEdKUZfv8UKCN8LAaAr
+TRX Amount     : 6 TRX
+TX Hash        : ${txHashOnly}
+Tronscan       : ${txhash}
+--------------------------------
+Editor Invited : ${invited}
+================================
+Submitted via AIJAM Submission Form — aijam.onsofa.ai
+💲Tron🔺 blockchained by AIJAM`;
+
+      document.getElementById('receipt-text').textContent = msg;
+      const card = document.getElementById('receipt-card');
+      card.style.display = 'block';
+      card.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    }
+  </script>
 </body>
 </html>
