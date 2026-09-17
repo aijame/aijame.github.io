@@ -136,6 +136,35 @@ a:hover {
     color: var(--red);
 }
 
+.card h5 {
+    color: var(--cyan);
+}
+
+.paper-figure {
+  width: 100%;
+  margin: 2em auto;
+  text-align: center;
+  box-sizing: border-box;
+}
+
+.paper-figure img {
+  display: block;
+  width: 80%;
+  max-width: 900px;
+  height: auto;
+  margin: 0 auto;
+}
+
+.paper-figure figcaption {
+  width: 75%;
+  max-width: 850px;
+  margin: 0.6em auto 0;
+  text-align: justify;
+  font-size: 0.85em;
+  line-height: 1.4;
+}
+
+
 .card p {
     margin: 0.3rem 0;
     line-height: 1.6;
